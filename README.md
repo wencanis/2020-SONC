@@ -97,105 +97,105 @@ H5D4 | hiking 5 hours, driving 4 hours
 ### Clockwise 1
 #### Hourly Plan
 ##### Day 1 (H0D10)
-600: Wake up\
-700: Leave from San Jose\
-1000: Arrive at [Fort Ross](https://www.fortross.org/tours.htm)\
-1030: Private Tour (need to book)\
-1130: Lunch\
-1230: Leave Fort Ross\
-1445: Rest around Fort Bragg\
-1530: Leave Fort Bragg\
-1745: Arrive at Avenue of the Giants\
-1830: Dinner at Eureka\
-1930: Leave for Patricks Point\
-2030: Arrive and retire at Patricks Point\
-2100: Prepare hiking food for tomorrow\
+600: Wake up  
+700: Leave from San Jose  
+1000: Arrive at [Fort Ross](https://www.fortross.org/tours.htm)  
+1030: Private Tour (need to book)  
+1130: Lunch  
+1230: Leave Fort Ross  
+1445: Rest around Fort Bragg  
+1530: Leave Fort Bragg  
+1745: Arrive at Avenue of the Giants  
+1830: Dinner at Eureka  
+1930: Leave for Patricks Point  
+2030: Arrive and retire at Patricks Point  
+2100: Prepare hiking food for tomorrow  
 2200: Retire
 
 ##### Day 2 (H6D6)
-700: Wake up\
-800: Leave Patricks Point\
-850: Arrive at Thomas H. Kuchel Visitor Center\
-910: Leave visitor center\
-1000: Arrive at Tall Trees Grove Trail\
-1500: Finish trail & leave for Lady Bird Johnson Grove Trail\
-1530: Visit Redwood Creek Overlook\
-1600: Arrive at Lady Bird Johnson Grove Trail\
-1640: Finish trail & leave for Fern Canyon Loop Trail\
-1720: Arrive at Fern Canyon Loop Trail\
-1720: Quick meal at beach\
-1740: Start Fern Canyon Loop Trail\
-1820: Finish trail & leave for Crescent City\
-1850: Stop briefly at Big Tree Wayside\
+700: Wake up  
+800: Leave Patricks Point  
+850: Arrive at Thomas H. Kuchel Visitor Center  
+910: Leave visitor center  
+1000: Arrive at Tall Trees Grove Trail  
+1500: Finish trail & leave for Lady Bird Johnson Grove Trail  
+1530: Visit Redwood Creek Overlook  
+1600: Arrive at Lady Bird Johnson Grove Trail  
+1640: Finish trail & leave for Fern Canyon Loop Trail  
+1720: Arrive at Fern Canyon Loop Trail  
+1720: Quick meal at beach  
+1740: Start Fern Canyon Loop Trail  
+1820: Finish trail & leave for Crescent City  
+1850: Stop briefly at Big Tree Wayside  
 2000: Arrive at Crescent City
 2100: Retire
 
 ##### Day 3 (H4D6)
-700: Wake up\
-800: Leave for Crater Lake\
-1130: Arrive at Rogue River Gorge Viewpoint & for lunch\
-1300: Leave for Crater Lake\
-1330: Arrive at Crater Lake Steel Information Center\
-1400: Drive to Pinnacles Overlook\
-1445: Drive to Garfield Peak Trail\
-1530: Start Garfield Peak Trail \
-1800: Finish trail & eat dinner\
-1900: Enjoy views for rest of day\
+700: Wake up  
+800: Leave for Crater Lake  
+1130: Arrive at Rogue River Gorge Viewpoint & for lunch  
+1300: Leave for Crater Lake  
+1330: Arrive at Crater Lake Steel Information Center  
+1400: Drive to Pinnacles Overlook  
+1445: Drive to Garfield Peak Trail  
+1530: Start Garfield Peak Trail   
+1800: Finish trail & eat dinner  
+1900: Enjoy views for rest of day  
 2100: Retire
 
 ##### Day 4 (H5D3)
-700: Wake up\
-800: Leave for Cleetwood Cove Trail\
-845: Arrive at Cleetwood Cove Trail\
-930: Arrive at Docks\
-945: Get on Boat for Wizard Island\
-1030: Start Wizard Island Summit Trail\
-1300: Finish trail\
-1500: Arrive back at Docks\
-1600: Leave trail & drive clock-wise around the lake\
-1700: Arrive at Watchman Peak Trail\
-1830: Finish trail & eat dinner\
-1900: Enjoy views for rest of day\
+700: Wake up  
+800: Leave for Cleetwood Cove Trail  
+845: Arrive at Cleetwood Cove Trail  
+930: Arrive at Docks  
+945: Get on Boat for Wizard Island  
+1030: Start Wizard Island Summit Trail  
+1300: Finish trail  
+1500: Arrive back at Docks  
+1600: Leave trail & drive clock-wise around the lake  
+1700: Arrive at Watchman Peak Trail  
+1830: Finish trail & eat dinner  
+1900: Enjoy views for rest of day  
 2100: Retire
 
 Note: Alternatively, can take the boat at 1245.
 
 ##### Day 5 (H4D5)
-700: Wake up\
-800: Leave for Mount Scott Trail\
-830: Arrive at Mount Scott Trail\
-1230: Finish trail & leave for lunch\
-1300: Lunch\
-1400: Leave for Klamath Falls\
-1530: Arrive & enjoy the views at Klamath Falls\
-1630: Dinner\
-1730: Leave for Lava Beds\
-2030: Arrive at Lava Beds\
+700: Wake up  
+800: Leave for Mount Scott Trail  
+830: Arrive at Mount Scott Trail  
+1230: Finish trail & leave for lunch  
+1300: Lunch  
+1400: Leave for Klamath Falls  
+1530: Arrive & enjoy the views at Klamath Falls  
+1630: Dinner  
+1730: Leave for Lava Beds  
+2030: Arrive at Lava Beds  
 2100: Retire at Tulelake
 
 Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 
 ##### Day 6 (H5D4)
-630: Wake up\
-730: Arrive at Lower Klamath Auto Tour Route\
-815: Finish tour, arrive at visitor center for Lower Klamath & Tule Lake National Wildlife Refuge\
-845: Leave for Tule Lake Auto Tour Route\
-930: Visit Petroglyph Point\
-1000: Visit Captain Jack's Stronghold\
-1045: Arrive at Gillem Bluff Historic Trail\
-1145: Finish trail\
-1200: Lunch\
-1300: Arrive at Black Crater Trail\
-1315: Leave for Schonchin Butte Lookout Trail\
-1500: Finish trail\
-1500: Dinner\
-1600: Symbol Bridge And Big Painted Cave\
-1700: Skull Cave Trail\
-1730: Other trails as desired\
+630: Wake up  
+730: Arrive at Lower Klamath Auto Tour Route  
+815: Finish tour, arrive at visitor center for Lower Klamath & Tule Lake National Wildlife Refuge  
+845: Leave for Tule Lake Auto Tour Route  
+930: Visit Petroglyph Point  
+1000: Visit Captain Jack's Stronghold  
+1045: Arrive at Gillem Bluff Historic Trail  
+1145: Finish trail  
+1200: Lunch  
+1300: Arrive at Black Crater Trail  
+1315: Leave for Schonchin Butte Lookout Trail  
+1500: Finish trail  
+1500: Dinner  
+1600: Symbol Bridge And Big Painted Cave  
+1700: Skull Cave Trail  
+1730: Other trails as desired  
 2100: Retire
 
 ##### Day 7 (H7D5)
-700: Wake up\
+700: Wake up  
 800: Spelunking time:
  - Golden Dome
  - Heppe
@@ -204,80 +204,80 @@ Note: Alternatively, can take the boat at 945 or even 1245 on this day.
  - Valentine
  - etc.
 
-1200: Lunch\
-1300: Mammoth Crater (Big Nasty) Trail\
-1530: Leave for Lassen Vulcanic\
+1200: Lunch  
+1300: Mammoth Crater (Big Nasty) Trail  
+1530: Leave for Lassen Vulcanic  
 1930: Arrive & retire at Lassen Vulcanic
 
 ##### Day 8 (H5D1)
-700: Wake up\
-800: Arrive at Lassen Peak Trail\
-1300: Finish trail, lunch\
-1430: Arrive at Devastated Area Interpretive Trail\
+700: Wake up  
+800: Arrive at Lassen Peak Trail  
+1300: Finish trail, lunch  
+1430: Arrive at Devastated Area Interpretive Trail  
 1500: Enjoy the view & retire
 
 ##### Day 9 (H9D1)
-700: Wake up\
-800: Arrive at Bumpass Hell Trail (5hr, can turn back at Bumpass Hell to half the trip)\
-1300: Finish trail, lunch\
-1500: Arrive at Cinder Cone Trail\
+700: Wake up  
+800: Arrive at Bumpass Hell Trail (5hr, can turn back at Bumpass Hell to half the trip)  
+1300: Finish trail, lunch  
+1500: Arrive at Cinder Cone Trail  
 1900: Finish trail & retire
 
 ##### Day 10 (H0D8)
-800: Wake up\
-900: Leave for San Jose\
-1000: Arrive at Redding\
-1100: Arrive at Corning\
-1100: Lunch and buy olive oil\
-1230: Leave Corning\
-1530: Arrive at Sacramento\
-1530: Tour Sacramento\
-1630: Leave Sacramento\
-1830: Arrive at Berkeley\
-1830: Dinner\
-1930: Leave for San Jose\
-2100: Arrive at San Jose\
+800: Wake up  
+900: Leave for San Jose  
+1000: Arrive at Redding  
+1100: Arrive at Corning  
+1100: Lunch and buy olive oil  
+1230: Leave Corning  
+1530: Arrive at Sacramento  
+1530: Tour Sacramento  
+1630: Leave Sacramento  
+1830: Arrive at Berkeley  
+1830: Dinner  
+1930: Leave for San Jose  
+2100: Arrive at San Jose  
 2200: Retire, share the pictures, and relish the memories!
 
 ### Counter-Clockwise 1
 #### Hourly Plan
 ##### Day 1 (H5D7)
-600: Wake up\
-700: Leave for Corning\
-1030: Arrive at Corning\
-1030: Lunch and buy olive oil\
-1200: Leave Corning\
-1400: Arrive at Lassen Volcanic\
-1430: Arrive at Lassen Peak Trail\
-1930: Finish trail, dinner\
+600: Wake up  
+700: Leave for Corning  
+1030: Arrive at Corning  
+1030: Lunch and buy olive oil  
+1200: Leave Corning  
+1400: Arrive at Lassen Volcanic  
+1430: Arrive at Lassen Peak Trail  
+1930: Finish trail, dinner  
 2100: Retire
 
 ##### Day 2 (H9D1)
-700: Wake up\
-800: Arrive at Bumpass Hell Trail (5hr, can turn back at Bumpass Hell to half the trip)\
-1300: Finish trail, lunch\
-1430: Arrive at Devastated Area Interpretive Trail\
-1500: Arrive at Cinder Cone Trail\
+700: Wake up  
+800: Arrive at Bumpass Hell Trail (5hr, can turn back at Bumpass Hell to half the trip)  
+1300: Finish trail, lunch  
+1430: Arrive at Devastated Area Interpretive Trail  
+1500: Arrive at Cinder Cone Trail  
 1900: Finish trail & retire
 
 ##### Day 3 (H5D5)
-700: Wake up\
-800: Leave for Lava Beds\
-1200: Arrive at Lava Beds\
-1200: Lunch\
-1300: Arrive at Black Crater Trail\
-1315: Leave for Schonchin Butte Lookout Trail\
-1500: Finish trail\
-1500: Dinner\
-1600: Symbol Bridge And Big Painted Cave\
-1700: Skull Cave Trail\
-1730: Other trails as desired\
+700: Wake up  
+800: Leave for Lava Beds  
+1200: Arrive at Lava Beds  
+1200: Lunch  
+1300: Arrive at Black Crater Trail  
+1315: Leave for Schonchin Butte Lookout Trail  
+1500: Finish trail  
+1500: Dinner  
+1600: Symbol Bridge And Big Painted Cave  
+1700: Skull Cave Trail  
+1730: Other trails as desired  
 2100: Retire
 
 ##### Day 4 (H8D1)
-700: Wake up\
-800: Mammoth Crater (Big Nasty) Trail\
-1030: Finish trail\
+700: Wake up  
+800: Mammoth Crater (Big Nasty) Trail  
+1030: Finish trail  
 1030: Spelunking time:
  - Golden Dome
  - Heppe
@@ -286,96 +286,96 @@ Note: Alternatively, can take the boat at 945 or even 1245 on this day.
  - Valentine
  - etc.
 
-1200: Lunch\
-1300: More spelunking\
-1600: Arrive at Gillem Bluff Historic Trail\
-1700: Finish trail\
-1700: Visit Captain Jack's Stronghold\
-1745: Finish trail\
-1745: Leave for Petroglyph Point\
-1830: Dinner\
+1200: Lunch  
+1300: More spelunking  
+1600: Arrive at Gillem Bluff Historic Trail  
+1700: Finish trail  
+1700: Visit Captain Jack's Stronghold  
+1745: Finish trail  
+1745: Leave for Petroglyph Point  
+1830: Dinner  
 2100: Retire
 
 ##### Day 5 (H3D8)
-630: Wake up\
-730: Arrive at Tule Lake Auto Tour Route\
-815: Finish tour, arrive at visitor center for Lower Klamath & Tule Lake National Wildlife Refuge\
-845: Leave for Lower Klamath Auto Tour Route\
-930: Leave for Klamath Falls\
-1230: Arrive at Klamath Falls\
-1230: Lunch\
-1330: Leave for Crater Lake\
-1500: Arrive at Crater Lake\
-1600: Drive to Pinnacles Overlook\
-1645: Drive to Garfield Peak Trail\
-1730: Start Garfield Peak Trail \
-2000: Finish trail & eat dinner\
+630: Wake up  
+730: Arrive at Tule Lake Auto Tour Route  
+815: Finish tour, arrive at visitor center for Lower Klamath & Tule Lake National Wildlife Refuge  
+845: Leave for Lower Klamath Auto Tour Route  
+930: Leave for Klamath Falls  
+1230: Arrive at Klamath Falls  
+1230: Lunch  
+1330: Leave for Crater Lake  
+1500: Arrive at Crater Lake  
+1600: Drive to Pinnacles Overlook  
+1645: Drive to Garfield Peak Trail  
+1730: Start Garfield Peak Trail   
+2000: Finish trail & eat dinner  
 2100: Retire
 
 ##### Day 6 (H5D3)
-700: Wake up\
-800: Leave for Cleetwood Cove Trail\
-845: Arrive at Cleetwood Cove Trail\
-930: Arrive at Docks\
-945: Get on Boat for Wizard Island\
-1030: Start Wizard Island Summit Trail\
-1300: Finish trail\
-1500: Arrive back at Docks\
-1600: Leave trail & drive clock-wise around the lake\
-1700: Arrive at Watchman Peak Trail\
-1830: Finish trail & eat dinner\
-1900: Enjoy views for rest of day\
+700: Wake up  
+800: Leave for Cleetwood Cove Trail  
+845: Arrive at Cleetwood Cove Trail  
+930: Arrive at Docks  
+945: Get on Boat for Wizard Island  
+1030: Start Wizard Island Summit Trail  
+1300: Finish trail  
+1500: Arrive back at Docks  
+1600: Leave trail & drive clock-wise around the lake  
+1700: Arrive at Watchman Peak Trail  
+1830: Finish trail & eat dinner  
+1900: Enjoy views for rest of day  
 2100: Retire
 
 Note: Alternatively, can take the boat at 1245.
 
 ##### Day 7 (H4D6)
-700: Wake up\
-800: Leave for Mount Scott Trail\
-830: Arrive at Mount Scott Trail\
-1230: Finish trail & leave for lunch\
-1300: Arrive at Rogue River Gorge Viewpoint & for lunch\
-1400: Leave for Redwood\
-1730: Arrive at Crescent City for dinner\
-1830: Prepare hiking food for tomorrow\
-1900: Leave for Klamath\
-1930: Arrive at Klamath\
+700: Wake up  
+800: Leave for Mount Scott Trail  
+830: Arrive at Mount Scott Trail  
+1230: Finish trail & leave for lunch  
+1300: Arrive at Rogue River Gorge Viewpoint & for lunch  
+1400: Leave for Redwood  
+1730: Arrive at Crescent City for dinner  
+1830: Prepare hiking food for tomorrow  
+1900: Leave for Klamath  
+1930: Arrive at Klamath  
 2100: Retire
 
 Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 
 ##### Day 8 (H6D6)
-700: Wake up\
-800: Leave Patricks Point\
-825: Stop briefly at Big Tree Wayside\
-850: Arrive at Thomas H. Kuchel Visitor Center\
-910: Leave visitor center\
-1000: Arrive at Tall Trees Grove Trail\
-1500: Finish trail & leave for Lady Bird Johnson Grove Trail\
-1530: Visit Redwood Creek Overlook\
-1600: Arrive at Lady Bird Johnson Grove Trail\
-1640: Finish trail & leave for Fern Canyon Loop Trail\
-1720: Arrive at Fern Canyon Loop Trail\
-1720: Quick meal at beach\
-1740: Start Fern Canyon Loop Trail\
-1820: Finish trail & leave for Patricks Point\
-1930: Arrive at Patricks Point\
-1930: Dinner\
+700: Wake up  
+800: Leave Patricks Point  
+825: Stop briefly at Big Tree Wayside  
+850: Arrive at Thomas H. Kuchel Visitor Center  
+910: Leave visitor center  
+1000: Arrive at Tall Trees Grove Trail  
+1500: Finish trail & leave for Lady Bird Johnson Grove Trail  
+1530: Visit Redwood Creek Overlook  
+1600: Arrive at Lady Bird Johnson Grove Trail  
+1640: Finish trail & leave for Fern Canyon Loop Trail  
+1720: Arrive at Fern Canyon Loop Trail  
+1720: Quick meal at beach  
+1740: Start Fern Canyon Loop Trail  
+1820: Finish trail & leave for Patricks Point  
+1930: Arrive at Patricks Point  
+1930: Dinner  
 2100: Retire
 
 ##### Day 9 (H0D10)
-600: Wake up\
-700: Leave for Fort Bragg\
-1040: Arrive at Fort Bragg\
-1050: Lunch\
-1150: Leave for Fort Ross\
-1410: Arrive at [Fort Ross](https://www.fortross.org/tours.htm)\
-1430: Private Tour (need to book)\
-1630: Leave Fort Ross\
-1900: Arrive at Berkeley\
-1900: Dinner\
-2000: Leave for San Jose\
-2100: Arrive at San Jose\
+600: Wake up  
+700: Leave for Fort Bragg  
+1040: Arrive at Fort Bragg  
+1050: Lunch  
+1150: Leave for Fort Ross  
+1410: Arrive at [Fort Ross](https://www.fortross.org/tours.htm)  
+1430: Private Tour (need to book)  
+1630: Leave Fort Ross  
+1900: Arrive at Berkeley  
+1900: Dinner  
+2000: Leave for San Jose  
+2100: Arrive at San Jose  
 2200: Retire
 
 ## Planning Criteria
