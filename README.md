@@ -83,8 +83,8 @@ Day | CW Hiking | CCW Hiking | CW Driving | CCW Driving | CW Total | CCW Total
 9 | 5 | 0  | 7  | 10 | 12 | 10
 Total | 45 | 45 | 47 | 47 | 92 | 92
 
-Note 1: Hiking numbers assume a leisurely pace\
-Note 2: Driving numbers assume ~10% slack\
+Note 1: Hiking numbers assume a leisurely pace
+Note 2: Driving numbers assume ~10% slack
 Note 3: Sunrise at 6:10, Sunset at 20:10 -- total 14 hours of sunlight
 
 ## Proposed Routes
@@ -294,7 +294,7 @@ Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 1745: Finish trail\
 1745: Leave for Petroglyph Point\
 1830: Dinner\
-2100: Retire\
+2100: Retire
 
 ##### Day 5 (H3D8)
 630: Wake up\
@@ -340,7 +340,7 @@ Note: Alternatively, can take the boat at 1245.
 1830: Prepare hiking food for tomorrow\
 1900: Leave for Klamath\
 1930: Arrive at Klamath\
-2100: Retire\
+2100: Retire
 
 Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 
