@@ -84,7 +84,7 @@ Day | CW Hiking | CCW Hiking | CW Driving | CCW Driving | CW Total | CCW Total
 Total | 45 | 45 | 47 | 47 | 92 | 92
 
 Note 1: Hiking numbers assume a leisurely pace  
-Note 2: Driving numbers assume ~10% slack
+Note 2: Driving numbers assume ~10% slack  
 Note 3: Sunrise at 6:10, Sunset at 20:10 -- total 14 hours of sunlight
 
 ## Proposed Routes
