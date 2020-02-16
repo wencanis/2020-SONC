@@ -108,7 +108,7 @@ Crater Lake | Mount Scott | 6.8 | 384 | 4 | 往返 | Any | Highest point in park
 Redwood | Tall Trees Grove | 5.3 | 228 | 2.5 | 圈 | Any | Frequently written in blogs
 Redwood | Lady Bird Johnson Grove | 2.1 | 23 | 0.75 | 圈 | Any | Easy, trees
 Redwood | Fern Canyon | 1.8 | 36 | 0.75 | 圈 | Any | Filmed for Jurassic Park
-Total | 16 | 69.6 | 3257 | 30.5 | -- | -- | --
+Total | 16 | 69.6 | 3257 | 37 | -- | -- | --
 
 Note: Time is estimated using Tranter's Correction for Naismith's Rule using
 40min/0.8km+300m as the fitness parameter.
