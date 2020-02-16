@@ -14,6 +14,7 @@
 
 * [Proposals Overview](#proposals-overview)
     * [Estimated Daily Hiking and Driving Hours](#estimated-daily-hiking-and-driving-hours)
+    * [Hiking Route Stats](#hiking-route-stats)
 * [Proposed Routes](#proposed-routes)
     * [Clockwise 1](#clockwise-1)
         * [Hourly Plan](#hourly-plan)
@@ -86,6 +87,31 @@ Total | 45 | 45 | 47 | 47 | 92 | 92
 Note 1: Hiking numbers assume a leisurely pace  
 Note 2: Driving numbers assume ~10% slack, Google Maps estimates 35 hours  
 Note 3: Sunrise at 6:10, Sunset at 20:10 -- total 14 hours of sunlight
+
+### Hiking Route Stats
+
+Park | Trail | Distance (km) | Elevation (m) | Time (hr) | 类型 | Best Time | Unique Aspect
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
+Lassen Volcanic | Lassen Peak | 8.2 | 600 | 5 | 往返 | Any | View from top of active volcano
+Lassen Volcanic | Bumpass Hell | 10.1 | 404 | 5 | 往返 | Any | a tour of hell: mud pots, sulphur vents, and boiling pools
+Lassen Volcanic | Cinder Cone | 7.7 | 318 | 4 | 圈 | Any | Rim of cinder cone
+Lava Beds | Schonchin Butte | 2.4 | 142 | 1.25 | 圈 | Any | View of park, wild flowers
+Lava Beds | Symbol Bridge And Big Painted Cave | 1 | 31 | 2.5 | 往返 | Any | Collapsed lava tubes
+Lava Beds | Big Nasty Trail | 3.7 | 92 | 1.5 | 圈 | Any | Lizards, birds, Mammoth Crater
+Lava Beds | Gillem Bluff Historic Trail | 2.3 | 115 | 1 | 往返 | Any | Views
+Lava Beds | Captain Jack's Stronghold | 1.1 | 21 | 0.5 | 圈 | Any | History & views
+Crater Lake | Garfield Peak | 5.5 | 326 | 3 | 往返 | Late afternoon | Views
+Crater Lake | Cleetwood Cove | 3.4 | 190 | 2 | 往返 | Any | Only trail to shore & dock
+Crater Lake | Wizard Island | 3.7 | 229 | 2 | 圈 | Any | View from centre of lake
+Crater Lake | Watchman Peak | 2.6 | 118 | 1.25 | 往返 | PM (since on west side of lake) | Views
+Crater Lake | Mount Scott | 6.8 | 384 | 4 | 往返 | Any | Highest point in park
+Redwood | Tall Trees Grove | 5.3 | 228 | 2.5 | 圈 | Any | Frequently written in blogs
+Redwood | Lady Bird Johnson Grove | 2.1 | 23 | 0.75 | 圈 | Any | Easy, trees
+Redwood | Fern Canyon | 1.8 | 36 | 0.75 | 圈 | Any | Filmed for Jurassic Park
+Total | 16 | 69.6 | 3257 | 30.5 | -- | -- | --
+
+Note: Time is estimated using Tranter's Correction for Naismith's Rule using
+40min/0.8km+300m as the fitness parameter.
 
 ## Proposed Routes
 Legend
