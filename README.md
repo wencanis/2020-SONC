@@ -1,22 +1,33 @@
 # Preliminary NorCal & South Oregon Road Trip Plan
 
-## Packing Tips
-- Bring sandals or waterproof shoes for wet hikes
-- Bring a helmet for spelunking
-- Lots of hiking, some in the Sun, some in a cave, so bring appropriate hiking gear:
-  - Sunscreen
-  - Sun Hat
-  - Flashlight
-  - Snack bars
-
 ## Table of Contents
 <!-- vim-markdown-toc GFM -->
 
-* [Proposals Overview](#proposals-overview)
-    * [Estimated Daily Hiking and Driving Hours](#estimated-daily-hiking-and-driving-hours)
-    * [Hiking Route Stats](#hiking-route-stats)
-* [Proposed Routes](#proposed-routes)
-    * [Clockwise 1](#clockwise-1)
+* [Packing Tips](#packing-tips)
+* [Candidate Plan](#candidate-plan)
+    * [Hiking Routes](#hiking-routes)
+* [Planning Criteria](#planning-criteria)
+    * [Safety](#safety)
+    * [Balance between depth of experience and body limits](#balance-between-depth-of-experience-and-body-limits)
+    * [Balance between breadth of experience and trip fatigue](#balance-between-breadth-of-experience-and-trip-fatigue)
+    * [Balance between leisure and speed](#balance-between-leisure-and-speed)
+* [Derived Planning Constraints](#derived-planning-constraints)
+* [Appendix I: List of Candidate Destinations](#appendix-i-list-of-candidate-destinations)
+    * [San Jose - Redwood (8+3+2=13hrs)](#san-jose---redwood-83213hrs)
+    * [Redwood (8hr)](#redwood-8hr)
+    * [Redwood - Crater Lake (4+1=5hrs)](#redwood---crater-lake-415hrs)
+    * [Crater Lake (20hr)](#crater-lake-20hr)
+    * [Crater Lake - Lava Beds (2+2+1=5hr)](#crater-lake---lava-beds-2215hr)
+    * [Lava Beds (12hr)](#lava-beds-12hr)
+    * [Lava Beds - Lassen Volcanic (2.5+1=4hr)](#lava-beds---lassen-volcanic-2514hr)
+    * [Lassen Volcanic (15hr)](#lassen-volcanic-15hr)
+    * [Lassen Volcanic - San Jose (5+2=7hr)](#lassen-volcanic---san-jose-527hr)
+* [Appendix II: Hour Allocation Plans](#appendix-ii-hour-allocation-plans)
+    * [Clockwise](#clockwise)
+* [Appendix III: Proposed Routes](#appendix-iii-proposed-routes)
+    * [Overview](#overview)
+        * [Estimated Daily Hiking and Driving Hours](#estimated-daily-hiking-and-driving-hours)
+    * [Clockwise](#clockwise-1)
         * [Hourly Plan](#hourly-plan)
             * [Day 1 (H0D10)](#day-1-h0d10)
             * [Day 2 (H6D6)](#day-2-h6d6)
@@ -28,7 +39,7 @@
             * [Day 8 (H5D1)](#day-8-h5d1)
             * [Day 9 (H9D1)](#day-9-h9d1)
             * [Day 10 (H0D8)](#day-10-h0d8)
-    * [Counter-Clockwise 1](#counter-clockwise-1)
+    * [Counter-Clockwise](#counter-clockwise)
         * [Hourly Plan](#hourly-plan-1)
             * [Day 1 (H5D7)](#day-1-h5d7)
             * [Day 2 (H9D1)](#day-2-h9d1)
@@ -39,28 +50,226 @@
             * [Day 7 (H4D6)](#day-7-h4d6)
             * [Day 8 (H6D6)](#day-8-h6d6)
             * [Day 9 (H0D10)](#day-9-h0d10)
-* [Planning Criteria](#planning-criteria)
-    * [Safety](#safety)
-    * [Balance between depth of experience and body limits](#balance-between-depth-of-experience-and-body-limits)
-    * [Balance between breadth of experience and trip fatigue](#balance-between-breadth-of-experience-and-trip-fatigue)
-    * [Balance between leisure and speed](#balance-between-leisure-and-speed)
-* [Derived Planning Constraints](#derived-planning-constraints)
-* [List of Candidate Destinations](#list-of-candidate-destinations)
-    * [San Jose - Redwood (8+3+2=13hrs)](#san-jose---redwood-83213hrs)
-    * [Redwood (8hr)](#redwood-8hr)
-    * [Redwood - Crater Lake (4+1=5hrs)](#redwood---crater-lake-415hrs)
-    * [Crater Lake (20hr)](#crater-lake-20hr)
-    * [Crater Lake - Lava Beds (2+2+1=5hr)](#crater-lake---lava-beds-2215hr)
-    * [Lava Beds (12hr)](#lava-beds-12hr)
-    * [Lava Beds - Lassen Volcanic (2.5+1=4hr)](#lava-beds---lassen-volcanic-2514hr)
-    * [Lassen Volcanic (15hr)](#lassen-volcanic-15hr)
-    * [Lassen Volcanic - San Jose (5+2=7hr)](#lassen-volcanic---san-jose-527hr)
-* [Appendix I: Hour Allocation Plans](#appendix-i-hour-allocation-plans)
-    * [Clockwise 1](#clockwise-1-1)
 
 <!-- vim-markdown-toc -->
 
-## Proposals Overview
+## Packing Tips
+- Bring sandals or waterproof shoes for wet hikes
+- Bring a helmet for spelunking
+- Lots of hiking, some in the Sun, some in a cave, so bring appropriate hiking gear:
+  - Sunscreen
+  - Sun Hat
+  - Flashlight
+  - Snack bars
+
+## Candidate Plan
+
+### Hiking Routes
+
+Park | Trail | Distance (km) | Elevation (m) | Time (hr) | 类型 | Best Time | Unique Aspect
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
+Lassen Volcanic | Lassen Peak                  | 8.2 | 600 | 5 | 往返 | Any | View from top of active volcano
+Lassen Volcanic | Bumpass Hell                 | 10.1 | 404 | 5 | 往返 | Any | a tour of hell: mud pots, sulphur vents, and boiling pools
+Lassen Volcanic | Cinder Cone                  | 7.7 | 318 | 4 | 圈 | Any | Rim of cinder cone
+Lava Beds | Schonchin Butte                    | 2.4 | 142 | 1.25 | 圈 | Any | View of park, wild flowers
+Lava Beds | Symbol Bridge And Big Painted Cave | 1 | 31 | 2.5 | 往返 | Any | Collapsed lava tubes
+Lava Beds | Big Nasty Trail                    | 3.7 | 92 | 1.5 | 圈 | Any | Lizards, birds, Mammoth Crater
+Lava Beds | Gillem Bluff Historic Trail        | 2.3 | 115 | 1 | 往返 | Any | Views
+Lava Beds | Captain Jack's Stronghold          | 1.1 | 21 | 0.5 | 圈 | Any | History & views
+Crater Lake | Garfield Peak                    | 5.5 | 326 | 3 | 往返 | Late afternoon | Views
+Crater Lake | Cleetwood Cove                   | 3.4 | 190 | 2 | 往返 | Any | Only trail to shore & dock
+Crater Lake | Wizard Island                    | 3.7 | 229 | 2 | 圈 | Any | View from centre of lake
+Crater Lake | Watchman Peak                    | 2.6 | 118 | 1.25 | 往返 | PM (since on west side of lake) | Views
+Crater Lake | Mount Scott                      | 6.8 | 384 | 4 | 往返 | Any | Highest point in park
+Redwood | Tall Trees Grove                     | 5.3 | 228 | 2.5 | 圈 | Any | Frequently written in blogs
+Redwood | Lady Bird Johnson Grove              | 2.1 | 23 | 0.75 | 圈 | Any | Easy, trees
+Redwood | Fern Canyon                          | 1.8 | 36 | 0.75 | 圈 | Any | Filmed for Jurassic Park
+Total | 16                                     | 69.6 | 3257 | 37 | -- | -- | --
+
+Note: Time is estimated using Tranter's Correction for Naismith's Rule using
+40min per 0.8km hiked with 300m of elevation as the fitness parameter.
+
+## Planning Criteria
+### Safety
+This is achieved mainly through allowing enough rest for drivers.
+
+### Balance between depth of experience and body limits
+This gives rise to the constraint that no hike or series of activities shall be
+more difficult than the weakest can handle.
+
+### Balance between breadth of experience and trip fatigue
+This suggests that ideally, the experience should consist of just a little more
+than what would be the most iconic sceneries expected by the travellers. This
+would give the travellers a sense of satifaction since every place they had
+been to is memorable, and, as they had begun to experience diminishing returns,
+that there is not too much to regret.
+
+### Balance between leisure and speed
+The goal is to be speedy without frequent worries of timeliness. We need to
+have enough time such that,
+1. If time at each destination is leisurely spent, it will not affect
+the plan; and,
+2. If an uncommon disruptive event occurs, the essential events can still be
+carried out.
+
+Likely and uncommon sources of tardiness:
+- Wanting to spend more time to enjoy the views
+- Need of physical rest
+- Incidents with hotel bookings
+- Possible injury
+
+## Derived Planning Constraints
+Each primary destination needs to have the following:
+1. Enough rest time for driving.
+2. More than the essential events planned,
+3. A conservative amount of time allocated to each event; and,
+4. Some leftover events to be scheduled in case of leftover time.
+
+Hiking times are estimated at 20min/km and 15min/100m of elevation, and
+rounding up to be conservative. These are done very intuitively as the
+estimates are imprecise to begin with.
+
+## Appendix I: List of Candidate Destinations
+
+### San Jose - Redwood (8+3+2=13hrs)
+Recommended:
+- Fort Ross (2-3hr, 1000-1630)
+- Two rests (2hr)
+
+Optional:
+Fort Bragg
+- Mendocino Coast Botanical Gardens ($15, closes at 1700)
+
+### Redwood (8hr)
+Recommended:
+- Big Tree Wayside Walk (15min)
+- Tall Trees Grove (5hr)
+- Fern Canyon Loop (1hr)
+- Lady Bird Johnson Grove (1hr)
+
+Optional:
+- Stout Memorial (2hr)
+- Prairie Creek Trail (2hr)
+- Big Lagoon Canoeing
+
+### Redwood - Crater Lake (4+1=5hrs)
+Recommended:
+- Beckie's Cafe (1hr)
+
+Optional:
+- Drive through Brandon instead: +2.5 hrs
+
+Not recommended (since LB caves are better):
+- Oregon Caves: 4hr (includes drive from cave junction)
+
+### Crater Lake (20hr)
+Recommended:
+- The Pinnacles (1hr drive)
+- Steel Information Center (0.5hr)
+- Garfield Peak Trail (2.5hr, popular in the late afternoon on account of unique shifting colors over the lake and its surroundings)
+- The Watchman Peak Trail (1.5hr)
+- Mount Scott Trail (4hr)
+- Crater Lake Rim Scenic Drive (1.5hr)
+- Cleetwood Cove Trail (2hr)
+- Wizard Boat Tour (5.5hr, make sure to reserve!)
+
+Optional:
+- Plaikni Falls Trail (1.5hr)
+- Discovery Point Trail (3hr)
+
+### Crater Lake - Lava Beds (2+2+1=5hr)
+Recommended:
+1. Lower Klamath Auto Tour Route (0.5hr drive)
+2. Lower Klamath & Tule Lake National Wildlife Refuge Visitor Centers (0.5hr)
+3. Tule Lake Auto Tour Route (0.5hr drive)
+- 1 rest (1hr)
+
+### Lava Beds (12hr)
+Recommended:
+- Petroglyph Point (15min)
+- Captain Jack's Stronghold (0.5hr)
+- Gillem Bluff Historic Trail (1hr)
+- Black Crater Trail (15min)
+- Schonchin Butte Lookout Trail (1.5hr)
+- Symbol Bridge And Big Painted Cave (1hr)
+- Skull Cave Trail (15min)
+- Mammoth Crater (Big Nasty) Trail (2hr)
+- Caving (5hr)
+ - Golden Dome
+ - Heppe
+ - Sunshine
+ - Sentinel
+ - Valentine
+
+Optional:
+- Whitney Butte Trail (5hr)
+- Bunchgrass Trail and Hill Road Loop (2hr)
+
+### Lava Beds - Lassen Volcanic (2.5+1=4hr)
+Recommended:
+- Continue along Volcanic Legacy Scenic Byway
+- 1 rest (1hr)
+
+Optional:
+- Medicine Lake for a picnic (1hr)
+
+### Lassen Volcanic (15hr)
+Recommended:
+- Cinder Cone Trail (4hr)
+- Devastated Area Interpretive Trail (15min)
+- Lassen Peak (5hr)
+- Bumpass Hell Trail (5hr, can turn back at Bumpass Hell to half the trip)
+
+### Lassen Volcanic - San Jose (5+2=7hr)
+Recommended:
+- Buy some olive oil at Corning (1hr)
+- Sacramento for a meal (1hr)
+
+Optional:
+- Stop at Redding
+- Visit Sacramento
+ - California State Capitol
+ - Cathedral of the Blessed Sacrament
+ - Sutter's Fort
+
+## Appendix II: Hour Allocation Plans
+### Clockwise
+Day 1
+- 13 (SJ-RW)
+
+Day 2
+- 8  (RW)
+
+Day 3
+- 5  (RW-CL)
+- 5  (CL)
+
+Day 4
+- 10 (CL)
+
+Day 5
+- 5  (CL)
+- 3  (CL-LB) -- shift auto tours to day 6
+
+Day 6
+- 2  (CL-LB) -- auto tours shifted from day 5
+- 8  (LB)
+
+Day 7
+- 4  (LB)
+- 4  (LB-LV)
+
+Day 8
+- 10 (LV)
+
+Day 9
+- 5  (LV)
+
+Day 10
+- 7  (LV-SJ)
+
+## Appendix III: Proposed Routes
+### Overview
 ![][prelim]
 
 These numbers are derived from [Proposed Routes](#proposed-routes)
@@ -69,7 +278,7 @@ Note: CW's 8, 9, 10 are squeezed into 8 and 9. This is done through moving a
 hike from day 9 to day 8, and then squeezing 9 and 10 into 9, and subtracting
 an hour of driving from day 10's number.
 
-### Estimated Daily Hiking and Driving Hours
+#### Estimated Daily Hiking and Driving Hours
 
 Day | CW Hiking | CCW Hiking | CW Driving | CCW Driving | CW Total | CCW Total
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
@@ -88,39 +297,13 @@ Note 1: Hiking numbers assume a leisurely pace
 Note 2: Driving numbers assume ~10% slack, Google Maps estimates 35 hours  
 Note 3: Sunrise at 6:10, Sunset at 20:10 -- total 14 hours of sunlight
 
-### Hiking Route Stats
-
-Park | Trail | Distance (km) | Elevation (m) | Time (hr) | 类型 | Best Time | Unique Aspect
-:---: | :---: | :---: | :---: | :---: | :---: | :---:
-Lassen Volcanic | Lassen Peak | 8.2 | 600 | 5 | 往返 | Any | View from top of active volcano
-Lassen Volcanic | Bumpass Hell | 10.1 | 404 | 5 | 往返 | Any | a tour of hell: mud pots, sulphur vents, and boiling pools
-Lassen Volcanic | Cinder Cone | 7.7 | 318 | 4 | 圈 | Any | Rim of cinder cone
-Lava Beds | Schonchin Butte | 2.4 | 142 | 1.25 | 圈 | Any | View of park, wild flowers
-Lava Beds | Symbol Bridge And Big Painted Cave | 1 | 31 | 2.5 | 往返 | Any | Collapsed lava tubes
-Lava Beds | Big Nasty Trail | 3.7 | 92 | 1.5 | 圈 | Any | Lizards, birds, Mammoth Crater
-Lava Beds | Gillem Bluff Historic Trail | 2.3 | 115 | 1 | 往返 | Any | Views
-Lava Beds | Captain Jack's Stronghold | 1.1 | 21 | 0.5 | 圈 | Any | History & views
-Crater Lake | Garfield Peak | 5.5 | 326 | 3 | 往返 | Late afternoon | Views
-Crater Lake | Cleetwood Cove | 3.4 | 190 | 2 | 往返 | Any | Only trail to shore & dock
-Crater Lake | Wizard Island | 3.7 | 229 | 2 | 圈 | Any | View from centre of lake
-Crater Lake | Watchman Peak | 2.6 | 118 | 1.25 | 往返 | PM (since on west side of lake) | Views
-Crater Lake | Mount Scott | 6.8 | 384 | 4 | 往返 | Any | Highest point in park
-Redwood | Tall Trees Grove | 5.3 | 228 | 2.5 | 圈 | Any | Frequently written in blogs
-Redwood | Lady Bird Johnson Grove | 2.1 | 23 | 0.75 | 圈 | Any | Easy, trees
-Redwood | Fern Canyon | 1.8 | 36 | 0.75 | 圈 | Any | Filmed for Jurassic Park
-Total | 16 | 69.6 | 3257 | 37 | -- | -- | --
-
-Note: Time is estimated using Tranter's Correction for Naismith's Rule using
-40min/0.8km+300m as the fitness parameter.
-
-## Proposed Routes
 Legend
 
 Abbreviation | Explanation
 :---: | :---:
 H5D4 | hiking 5 hours, driving 4 hours
 
-### Clockwise 1
+### Clockwise
 #### Hourly Plan
 ##### Day 1 (H0D10)
 600: Wake up  
@@ -265,7 +448,7 @@ Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 2100: Arrive at San Jose  
 2200: Retire, share the pictures, and relish the memories!
 
-### Counter-Clockwise 1
+### Counter-Clockwise
 #### Hourly Plan
 ##### Day 1 (H5D7)
 600: Wake up  
@@ -403,184 +586,5 @@ Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 2000: Leave for San Jose  
 2100: Arrive at San Jose  
 2200: Retire
-
-## Planning Criteria
-### Safety
-This is achieved mainly through allowing enough rest for drivers.
-
-### Balance between depth of experience and body limits
-This gives rise to the constraint that no hike or series of activities shall be
-more difficult than the weakest can handle.
-
-### Balance between breadth of experience and trip fatigue
-This suggests that ideally, the experience should consist of just a little more
-than what would be the most iconic sceneries expected by the travellers. This
-would give the travellers a sense of satifaction since every place they had
-been to is memorable, and, as they had begun to experience diminishing returns,
-that there is not too much to regret.
-
-### Balance between leisure and speed
-The goal is to be speedy without frequent worries of timeliness. We need to
-have enough time such that,
-1. If time at each destination is leisurely spent, it will not affect
-the plan; and,
-2. If an uncommon disruptive event occurs, the essential events can still be
-carried out.
-
-Likely and uncommon sources of tardiness:
-- Wanting to spend more time to enjoy the views
-- Need of physical rest
-- Incidents with hotel bookings
-- Possible injury
-
-## Derived Planning Constraints
-Each primary destination needs to have the following:
-1. Enough rest time for driving.
-2. More than the essential events planned,
-3. A conservative amount of time allocated to each event; and,
-4. Some leftover events to be scheduled in case of leftover time.
-
-Hiking times are estimated at 20min/km and 15min/100m of elevation, and
-rounding up to be conservative. These are done very intuitively as the
-estimates are imprecise to begin with.
-
-## List of Candidate Destinations
-
-### San Jose - Redwood (8+3+2=13hrs)
-Recommended:
-- Fort Ross (2-3hr, 1000-1630)
-- Two rests (2hr)
-
-Optional:
-Fort Bragg
-- Mendocino Coast Botanical Gardens ($15, closes at 1700)
-
-### Redwood (8hr)
-Recommended:
-- Big Tree Wayside Walk (15min)
-- Tall Trees Grove (5hr)
-- Fern Canyon Loop (1hr)
-- Lady Bird Johnson Grove (1hr)
-
-Optional:
-- Stout Memorial (2hr)
-- Prairie Creek Trail (2hr)
-- Big Lagoon Canoeing
-
-### Redwood - Crater Lake (4+1=5hrs)
-Recommended:
-- Beckie's Cafe (1hr)
-
-Optional:
-- Drive through Brandon instead: +2.5 hrs
-
-Not recommended (since LB caves are better):
-- Oregon Caves: 4hr (includes drive from cave junction)
-
-### Crater Lake (20hr)
-Recommended:
-- The Pinnacles (1hr drive)
-- Steel Information Center (0.5hr)
-- Garfield Peak Trail (2.5hr, popular in the late afternoon on account of unique shifting colors over the lake and its surroundings)
-- The Watchman Peak Trail (1.5hr)
-- Mount Scott Trail (4hr)
-- Crater Lake Rim Scenic Drive (1.5hr)
-- Cleetwood Cove Trail (2hr)
-- Wizard Boat Tour (5.5hr, make sure to reserve!)
-
-Optional:
-- Plaikni Falls Trail (1.5hr)
-- Discovery Point Trail (3hr)
-
-### Crater Lake - Lava Beds (2+2+1=5hr)
-Recommended:
-1. Lower Klamath Auto Tour Route (0.5hr drive)
-2. Lower Klamath & Tule Lake National Wildlife Refuge Visitor Centers (0.5hr)
-3. Tule Lake Auto Tour Route (0.5hr drive)
-- 1 rest (1hr)
-
-### Lava Beds (12hr)
-Recommended:
-- Petroglyph Point (15min)
-- Captain Jack's Stronghold (0.5hr)
-- Gillem Bluff Historic Trail (1hr)
-- Black Crater Trail (15min)
-- Schonchin Butte Lookout Trail (1.5hr)
-- Symbol Bridge And Big Painted Cave (1hr)
-- Skull Cave Trail (15min)
-- Mammoth Crater (Big Nasty) Trail (2hr)
-- Caving (5hr)
- - Golden Dome
- - Heppe
- - Sunshine
- - Sentinel
- - Valentine
-
-Optional:
-- Whitney Butte Trail (5hr)
-- Bunchgrass Trail and Hill Road Loop (2hr)
-
-### Lava Beds - Lassen Volcanic (2.5+1=4hr)
-Recommended:
-- Continue along Volcanic Legacy Scenic Byway
-- 1 rest (1hr)
-
-Optional:
-- Medicine Lake for a picnic (1hr)
-
-### Lassen Volcanic (15hr)
-Recommended:
-- Cinder Cone Trail (4hr)
-- Devastated Area Interpretive Trail (15min)
-- Lassen Peak (5hr)
-- Bumpass Hell Trail (5hr, can turn back at Bumpass Hell to half the trip)
-
-### Lassen Volcanic - San Jose (5+2=7hr)
-Recommended:
-- Buy some olive oil at Corning (1hr)
-- Sacramento for a meal (1hr)
-
-Optional:
-- Stop at Redding
-- Visit Sacramento
- - California State Capitol
- - Cathedral of the Blessed Sacrament
- - Sutter's Fort
-
-## Appendix I: Hour Allocation Plans
-### Clockwise 1
-Day 1
-- 13 (SJ-RW)
-
-Day 2
-- 8  (RW)
-
-Day 3
-- 5  (RW-CL)
-- 5  (CL)
-
-Day 4
-- 10 (CL)
-
-Day 5
-- 5  (CL)
-- 3  (CL-LB) -- shift auto tours to day 6
-
-Day 6
-- 2  (CL-LB) -- auto tours shifted from day 5
-- 8  (LB)
-
-Day 7
-- 4  (LB)
-- 4  (LB-LV)
-
-Day 8
-- 10 (LV)
-
-Day 9
-- 5  (LV)
-
-Day 10
-- 7  (LV-SJ)
 
 [prelim]: prelim.jpg "Preliminary Route"
