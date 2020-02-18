@@ -102,14 +102,26 @@ Note: Time is estimated using Tranter's Correction for Naismith's Rule using
 ### Daily Plan
 #### Day 1 (H5D7)
 600: Wake up  
-700: Leave for Corning  
-1030: Arrive at Corning  
-1030: Lunch and buy olive oil  
-1200: Leave Corning  
-1400: Arrive at Lassen Volcanic  
-1430: Arrive at Lassen Peak Trail  
-1930: Finish trail, dinner  
-2100: Retire
+700: Leave for Sacramento  
+900: Arrive at California State Capitol Park  
+930: Buy some ethnic food for the road  
+1000: Leave for Corning  
+1210: Lunch in Corning and buy olive oil  
+1310: Leave Corning  
+1500: Arrive at Lassen Peak Trail  
+2000: Finish trail  
+
+<iframe width="425" height="350" frameborder="0" scrolling="no"
+marginheight="0" marginwidth="0"
+src="https://www.openstreetmap.org/export/embed.html?bbox=-124.60693359375001%2C36.76529191711624%2C-120.39916992187501%2C39.193948213963665&amp;layer=mapnik"
+style="border: 1px solid black"></iframe><br/><small><a
+href="https://www.openstreetmap.org/#map=8/37.990/-122.503">View Larger
+Map</a></small>
+
+![][olive-oil]
+![][kebabs]
+![][lassen peak]
+![][d1-map]
 
 #### Day 2 (H9D1)
 700: Wake up  
@@ -414,9 +426,6 @@ Day 10
 
 ## Appendix III: Proposed Routes
 ### Overview
-![][prelim]
-*Preliminary Route*
-
 These numbers are derived from [Proposed Routes](#proposed-routes)
 
 Note: CW's 8, 9, 10 are squeezed into 8 and 9. This is done through moving a
@@ -732,4 +741,4 @@ Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 2100: Arrive at San Jose  
 2200: Retire
 
-[prelim]: prelim.jpg "Preliminary Route"
+[d1-map]: d1-map.jpg "Day 1"
