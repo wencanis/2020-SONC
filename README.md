@@ -66,8 +66,9 @@
 
 ### Hiking Routes
 
+<div class="hiking-table">
 Park | Trail | Distance (km) | Elevation (m) | Time (hr) | 类型 | Best Time | Unique Aspect
-:---: | :---: | :---: | :---: | :------: | :---: | :---:
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
 Lassen Volcanic | Lassen Peak                  | 8.2 | 600 | 5 | 往返 | Any | View from top of active volcano
 Lassen Volcanic | Bumpass Hell                 | 10.1 | 404 | 5 | 往返 | Any | a tour of hell: mud pots, sulphur vents, and boiling pools
 Lassen Volcanic | Cinder Cone                  | 7.7 | 318 | 4 | 圈 | Any | Rim of cinder cone
@@ -85,6 +86,11 @@ Redwood | Tall Trees Grove                     | 5.3 | 228 | 2.5 | 圈 | Any | F
 Redwood | Lady Bird Johnson Grove              | 2.1 | 23 | 0.75 | 圈 | Any | Easy, trees
 Redwood | Fern Canyon                          | 1.8 | 36 | 0.75 | 圈 | Any | Filmed for Jurassic Park
 Total | 16                                     | 69.6 | 3257 | 37 | -- | -- | --
+</div>
+
+.hiking-table table {
+  styles...
+}
 
 Note: Time is estimated using Tranter's Correction for Naismith's Rule using
 40min per 0.8km hiked with 300m of elevation as the fitness parameter.
