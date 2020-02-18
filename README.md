@@ -66,7 +66,7 @@
 
 ### Hiking Routes
 
-<div class="hiking-table">
+<div class="hikingtable">
 Park | Trail | Distance (km) | Elevation (m) | Time (hr) | 类型 | Best Time | Unique Aspect
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
 Lassen Volcanic | Lassen Peak                  | 8.2 | 600 | 5 | 往返 | Any | View from top of active volcano
@@ -88,8 +88,7 @@ Redwood | Fern Canyon                          | 1.8 | 36 | 0.75 | 圈 | Any | F
 Total | 16                                     | 69.6 | 3257 | 37 | -- | -- | --
 </div>
 
-.hiking-table table {
-  styles...
+.hikingtable table {
 }
 
 Note: Time is estimated using Tranter's Correction for Naismith's Rule using
