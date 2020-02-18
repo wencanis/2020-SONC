@@ -113,15 +113,15 @@ Note: Time is estimated using Tranter's Correction for Naismith's Rule using
 
 <iframe width="425" height="350" frameborder="0" scrolling="no"
 marginheight="0" marginwidth="0"
-src="https://www.openstreetmap.org/export/embed.html?bbox=-124.60693359375001%2C36.76529191711624%2C-120.39916992187501%2C39.193948213963665&amp;layer=mapnik"
+src="https://www.openstreetmap.org/export/embed.html?bbox=-123.92028808593751%2C36.76529191711624%2C-119.71252441406251%2C39.193948213963665&amp;layer=mapnik"
 style="border: 1px solid black"></iframe><br/><small><a
-href="https://www.openstreetmap.org/#map=8/37.990/-122.503">View Larger
+href="https://www.openstreetmap.org/#map=8/37.990/-121.816">View Larger
 Map</a></small>
 
 ![][olive-oil]
 ![][kebabs]
 ![][lassen peak]
-![][d1-map]
+![][1d0](1d0.jpg)
 
 #### Day 2 (H9D1)
 700: Wake up  
