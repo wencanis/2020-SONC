@@ -1,4 +1,4 @@
-# Preliminary NorCal & South Oregon Road Trip Plan
+# NorCal & South Oregon Road Trip
 
 ## Table of Contents
 <!-- vim-markdown-toc GFM -->
@@ -6,12 +6,12 @@
 * [Packing Tips](#packing-tips)
 * [Candidate Plan](#candidate-plan)
     * [Hiking Routes](#hiking-routes)
+* [Planning Constraints](#planning-constraints)
 * [Planning Criteria](#planning-criteria)
     * [Safety](#safety)
     * [Balance between depth of experience and body limits](#balance-between-depth-of-experience-and-body-limits)
     * [Balance between breadth of experience and trip fatigue](#balance-between-breadth-of-experience-and-trip-fatigue)
     * [Balance between leisure and speed](#balance-between-leisure-and-speed)
-* [Derived Planning Constraints](#derived-planning-constraints)
 * [Appendix I: List of Candidate Destinations](#appendix-i-list-of-candidate-destinations)
     * [San Jose - Redwood (8+3+2=13hrs)](#san-jose---redwood-83213hrs)
     * [Redwood (8hr)](#redwood-8hr)
@@ -67,7 +67,7 @@
 ### Hiking Routes
 
 Park | Trail | Distance (km) | Elevation (m) | Time (hr) | 类型 | Best Time | Unique Aspect
-:---: | :---: | :---: | :---: | :---: | :---: | :---:
+:---: | :---: | :---: | :---: | :------: | :---: | :---:
 Lassen Volcanic | Lassen Peak                  | 8.2 | 600 | 5 | 往返 | Any | View from top of active volcano
 Lassen Volcanic | Bumpass Hell                 | 10.1 | 404 | 5 | 往返 | Any | a tour of hell: mud pots, sulphur vents, and boiling pools
 Lassen Volcanic | Cinder Cone                  | 7.7 | 318 | 4 | 圈 | Any | Rim of cinder cone
@@ -88,6 +88,13 @@ Total | 16                                     | 69.6 | 3257 | 37 | -- | -- | --
 
 Note: Time is estimated using Tranter's Correction for Naismith's Rule using
 40min per 0.8km hiked with 300m of elevation as the fitness parameter.
+
+## Planning Constraints
+Each primary destination needs to have the following:
+1. Enough rest time for driving.
+2. More than the essential events planned,
+3. A conservative amount of time allocated to each event; and,
+4. Some leftover events to be scheduled in case of leftover time.
 
 ## Planning Criteria
 ### Safety
@@ -117,17 +124,6 @@ Likely and uncommon sources of tardiness:
 - Need of physical rest
 - Incidents with hotel bookings
 - Possible injury
-
-## Derived Planning Constraints
-Each primary destination needs to have the following:
-1. Enough rest time for driving.
-2. More than the essential events planned,
-3. A conservative amount of time allocated to each event; and,
-4. Some leftover events to be scheduled in case of leftover time.
-
-Hiking times are estimated at 20min/km and 15min/100m of elevation, and
-rounding up to be conservative. These are done very intuitively as the
-estimates are imprecise to begin with.
 
 ## Appendix I: List of Candidate Destinations
 
