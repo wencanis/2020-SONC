@@ -453,25 +453,25 @@ Likely and uncommon sources of tardiness:
 
 ## Appendix I: All Hiking Routes
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
+park | trail | distance (km) | elevation (m) | time (hr) | 类型
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | view from top of active volcano
-lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | a tour of hell: mud pots, sulphur vents, and boiling pools
-lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | rim of cinder cone
-lava beds | schonchin butte                    | 2.4 | 142 | 1.25 | 圈 | any | view of park, wild flowers
-lava beds | symbol bridge and big painted cave | 1 | 31 | 2.5 | 往返 | any | collapsed lava tubes
-lava beds | big nasty trail                    | 3.7 | 92 | 1.5 | 圈 | any | lizards, birds, mammoth crater
-lava beds | gillem bluff historic trail        | 2.3 | 115 | 1 | 往返 | any | views
-lava beds | captain jack's stronghold          | 1.1 | 21 | 0.5 | 圈 | any | history & views
-crater lake | garfield peak                    | 5.5 | 326 | 3 | 往返 | late afternoon | views
-crater lake | cleetwood cove                   | 3.4 | 190 | 2 | 往返 | any | only trail to shore & dock
-crater lake | wizard island                    | 3.7 | 229 | 2 | 圈 | any | view from centre of lake
-crater lake | watchman peak                    | 2.6 | 118 | 1.25 | 往返 | pm (since on west side of lake) | views
-crater lake | mount scott                      | 6.8 | 384 | 4 | 往返 | any | highest point in park
-redwood | tall trees grove                     | 5.3 | 228 | 2.5 | 圈 | any | frequently written in blogs
-redwood | lady bird johnson grove              | 2.1 | 23 | 0.75 | 圈 | any | easy, trees
-redwood | fern canyon                          | 1.8 | 36 | 0.75 | 圈 | any | filmed for jurassic park
-total | 16 hikes                               | 69.6 km | 3257 m | 37 hrs | -- | -- | --
+lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返
+lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返
+lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈
+lava beds | schonchin butte                    | 2.4 | 142 | 1.25 | 圈
+lava beds | symbol bridge and big painted cave | 1 | 31 | 2.5 | 往返
+lava beds | big nasty trail                    | 3.7 | 92 | 1.5 | 圈
+lava beds | gillem bluff historic trail        | 2.3 | 115 | 1 | 往返
+lava beds | captain jack's stronghold          | 1.1 | 21 | 0.5 | 圈
+crater lake | garfield peak                    | 5.5 | 326 | 3 | 往返
+crater lake | cleetwood cove                   | 3.4 | 190 | 2 | 往返
+crater lake | wizard island                    | 3.7 | 229 | 2 | 圈
+crater lake | watchman peak                    | 2.6 | 118 | 1.25 | 往返
+crater lake | mount scott                      | 6.8 | 384 | 4 | 往返
+redwood | tall trees grove                     | 5.3 | 228 | 2.5 | 圈
+redwood | lady bird johnson grove              | 2.1 | 23 | 0.75 | 圈
+redwood | fern canyon                          | 1.8 | 36 | 0.75 | 圈
+total | 16 hikes                               | 69.6 km | 3257 m | 37 hrs | --
 
 Note: Time is estimated using Tranter's Correction for Naismith's Rule using
 40min per 0.8km hiked with 300m of elevation as the fitness parameter.
