@@ -11,7 +11,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Packing Tips](#packing-tips)
-* [Weather](#weather)
+* [天气](#天气)
 * [Candidate Plan](#candidate-plan)
     * [Day 1 (H5D7)](#day-1-h5d7)
     * [Day 2 (H9D1)](#day-2-h9d1)
@@ -41,12 +41,17 @@
   - Flashlight
   - Snack bars
 
-## Weather
-Table
+## 天气
+天气表
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
-:---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | 活火山顶
+:---: | :---:
+国家公园 | 历史平均温度（括号里为历史极限）
+拉森 | (-1)**7 ~ 25**(36)
+火山岩床 | (-1)**10 ~ 29**(39)
+火山口湖 | **5 ~ 21**
+红杉树 | (2)**11 ~ 19**(33)
+
+会有一些雨水，平均每月2cm。
 
 ## Candidate Plan
 ### Day 1 (H5D7)
