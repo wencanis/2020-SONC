@@ -87,6 +87,12 @@ park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | 
 lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: mud pots, sulphur vents, and boiling pools
 lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火山渣锥
 
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/california/cinder-cone-nature-trail?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
 <p><a
 href="https://commons.wikimedia.org/wiki/File:Mudpot_at_Sulphur_Works,_Lassen_Volcanic_National_Park.jpg#/media/File:Mudpot_at_Sulphur_Works,_Lassen_Volcanic_National_Park.jpg"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mudpot_at_Sulphur_Works%2C_Lassen_Volcanic_National_Park.jpg/1200px-Mudpot_at_Sulphur_Works%2C_Lassen_Volcanic_National_Park.jpg"
