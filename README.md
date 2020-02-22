@@ -56,12 +56,12 @@
 ## Candidate Plan
 <iframe
 src="https://www.google.com/maps/d/embed?mid=1Kkl3TQAtawN6tzcRz2cs80q4ASegzmm3&hl=en"
-width="500" height="375"></iframe>
+width="400" height="375"></iframe>
 
 ### Day 1 (H5D7)
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m38!1m12!1m3!1d2246216.642018245!2d-122.9240051360291!3d38.96560856074691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m23!3e0!4m5!1s0x808fcbc3fab3c59b%3A0xbcfa443f6df67e3e!2sSJC%2C%20Airport%20Boulevard%2C%20San%20Jose%2C%20CA!3m2!1d37.3639472!2d-121.92893749999999!4m5!1s0x809ad0d8051652b9%3A0x48c5869114419f0f!2sCalifornia%20State%20Capitol%20Park%2C%20L%20Street%2C%20Sacramento%2C%20CA!3m2!1d38.5759282!2d-121.4907022!4m5!1s0x8082f29c136ae2f5%3A0x103342cc7d25c3f3!2sCorning%2C%20CA!3m2!1d39.9276572!2d-122.1791556!4m3!3m2!1d40.4348776!2d-121.5344729!5e0!3m2!1sen!2sus!4v1582396507706!5m2!1sen!2sus"
-width="500" height="375" frameborder="0" style="border:0;"
+width="400" height="375" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
 
 600: Wake up  
@@ -78,7 +78,7 @@ park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | 
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | 活火山顶
 
-<iframe class="alltrails" src="https://www.alltrails.com/widget/trail/us/california/lassen-peak?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
+<iframe class="alltrails" src="https://www.alltrails.com/widget/trail/us/california/lassen-peak?u=m" width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
 ### Day 2 (H9D1)
 700: Wake up  
@@ -115,16 +115,16 @@ lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/california/bunchgrass-trail-and-hill-road-loop?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
-<iframe class="alltrails" src="https://www.alltrails.com/widget/trail/us/california/cinder-cone-nature-trail?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
+<iframe class="alltrails" src="https://www.alltrails.com/widget/trail/us/california/cinder-cone-nature-trail?u=m" width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
 ### Day 3 (H4D5)
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d387445.1518711632!2d-121.5689047724315!3d40.65379857210672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x54cd51b62afb5ee5%3A0xf00974a991b0359!2sDiscovery%20Center%2C%20Shingletown%2C%20CA!3m2!1d40.5371868!2d-121.5623176!4m5!1s0x54cde0d325020841%3A0x8e6a2d01c84b8607!2sMount%20Shasta%2C%20CA!3m2!1d41.3098746!2d-122.3105666!4m5!1s0x54cea67b57f59be3%3A0x7f5c1c5b08a8f5cb!2sLava%20Beds%20National%20Monument%20Visitor%20Center%2C%20Indian%20Well%20Campground%20Trail%2C%20Tulelake%2C%20CA!3m2!1d41.7141667!2d-121.5097222!5e0!3m2!1sen!2sus!4v1582399453339!5m2!1sen!2sus"
-width="500" height="375" frameborder="0" style="border:0;"
+width="400" height="375" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
 
 700: Wake up  
@@ -157,13 +157,13 @@ lava beds | symbol bridge and big painted cave | 1 | 31 | 2.5 | 往返 | any | �
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/california/schonchin-butte-lookout-trail?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/california/symbol-bridge-and-big-painted-cave?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
@@ -198,26 +198,26 @@ lava beds | captain jack's stronghold          | 1.1 | 21 | 0.5 | 圈 | any | �
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/california/big-nasty-trail--2?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/california/gillem-bluff-historic-trail?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/california/captain-jacks-stronghold-captain-jacks-trail?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
 ### Day 5 (H3D8)
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1067677.0830462135!2d-122.46147518116167!3d42.341048787456366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x54cea67b57f59be3%3A0x7f5c1c5b08a8f5cb!2sLava%20Beds%20National%20Monument%20Visitor%20Center%2C%20Indian%20Well%20Campground%20Trail%2C%20Tulelake%2C%20CA!3m2!1d41.7141667!2d-121.5097222!4m5!1s0x54cec8bfffffffff%3A0xa696ea7880395f43!2sKlamath%20Basin%20National%20Wildlife%20Refuge%2C%20Hill%20Road%2C%20Tulelake%2C%20CA!3m2!1d41.9464415!2d-121.5652616!4m5!1s0x54c94b45420eb2dd%3A0xfc6a13132a3800b5!2sHomestead%2C%20CA!3m2!1d41.91361!2d-121.42193999999999!4m5!1s0x54ceb05ca88adc6b%3A0xdaab6374cb563347!2sCanby%20Cross%2C%20CA!3m2!1d41.8185542!2d-121.54364269999999!4m5!1s0x54cecf4e800dfebf%3A0x811b69aed59661a2!2sKlamath%20Strait%20Drain%2C%20California!3m2!1d41.9641848!2d-121.7426325!4m5!1s0x54cedb5ec6a7f4e7%3A0x5054761ab67fc9b!2sWelcome%20To%20Oregon%20Enjoy%20Visiting%2C%20Klamath%20Falls%2C%20OR!3m2!1d42.004904499999995!2d-121.8878079!4m5!1s0x54c8b37741e7c15b%3A0xbb19afba6e0d5f7d!2sRocky%20Point%2C%20OR!3m2!1d42.481648!2d-122.08673809999999!4m5!1s0x54c6170840e5e339%3A0x902bf2e1452fe3a3!2sCrater%20Lake%20National%20Park%2C%20Oregon!3m2!1d42.8684411!2d-122.16847849999999!5e0!3m2!1sen!2sus!4v1582399844944!5m2!1sen!2sus"
-width="500" height="375" frameborder="0" style="border:0;"
+width="400" height="375" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
 
 630: Wake up  
@@ -251,7 +251,7 @@ crater lake | garfield peak                    | 5.5 | 326 | 3 | 往返 | late a
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/oregon/garfield-peak-trail?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
@@ -295,26 +295,26 @@ crater lake | watchman peak                    | 2.6 | 118 | 1.25 | 往返 | pm 
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/oregon/cleetwood-cove-trail?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/oregon/wizard-island?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/oregon/the-watchman-peak-trail?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
 ### Day 7 (H4D6)
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1273987.7141768083!2d-123.99784432623461!3d42.12774366106056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x54c6170840e5e339%3A0x902bf2e1452fe3a3!2sCrater%20Lake%20National%20Park%2C%20Oregon!3m2!1d42.8684411!2d-122.16847849999999!4m5!1s0x54d05066e852b88d%3A0x5e8078a94235c587!2sKlamath%2C%20CA!3m2!1d41.5265092!2d-124.0384069!5e0!3m2!1sen!2sus!4v1582400262524!5m2!1sen!2sus"
-width="500" height="375" frameborder="0" style="border:0;"
+width="400" height="375" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
 
 700: Wake up  
@@ -346,7 +346,7 @@ crater lake | mount scott                      | 6.8 | 384 | 4 | 往返 | any | 
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/oregon/mount-scott-trail?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
@@ -383,19 +383,19 @@ redwood | fern canyon                          | 1.8 | 36 | 0.75 | 圈 | any | �
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/california/tall-trees-grove-loop-trail?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/california/lady-bird-grove-trail?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/california/fern-canyon-loop-trail?u=m"
-width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
@@ -412,7 +412,7 @@ and Running"></iframe>
 
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d3156305.638669751!2d-125.30272645360893!3d39.4166677976184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x54d05066e852b88d%3A0x5e8078a94235c587!2sKlamath%2C%20CA!3m2!1d41.5265092!2d-124.0384069!4m5!1s0x80803553c502486f%3A0xd285848a37ac9cdf!2sFort%20Bragg%2C%20CA!3m2!1d39.445723!2d-123.80529349999999!4m5!1s0x8086a191bbd19df3%3A0xba4413e20a74559e!2sFort%20Ross%20State%20Historic%20Park%2C%20Coast%20Highway%2C%20Jenner%2C%20CA!3m2!1d38.516042999999996!2d-123.24597179999999!4m5!1s0x808579363a8549d3%3A0x94ea1595a675e993!2sBerkeley%2C%20CA!3m2!1d37.8715226!2d-122.27304199999999!4m5!1s0x808fcbc3fab3c59b%3A0xbcfa443f6df67e3e!2sSJC%2C%20Airport%20Boulevard%2C%20San%20Jose%2C%20CA!3m2!1d37.3639472!2d-121.92893749999999!5e0!3m2!1sen!2sus!4v1582400643339!5m2!1sen!2sus"
-width="500" height="375" frameborder="0" style="border:0;"
+width="400" height="375" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
 
 ## Planning Constraints
