@@ -74,7 +74,7 @@ park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | 
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | 活火山顶
 
-<iframe class="alltrails" src="https://www.alltrails.com/widget/trail/us/california/lassen-peak?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
+<iframe src="https://www.alltrails.com/widget/trail/us/california/lassen-peak?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
 ### Day 2 (H9D1)
 700: Wake up  
