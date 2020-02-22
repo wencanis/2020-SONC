@@ -1,4 +1,5 @@
 # NorCal & South Oregon Road Trip
+少数具体尚为秘密
 
 ## Table of Contents
 <!-- vim-markdown-toc GFM -->
@@ -94,7 +95,7 @@ Crater Lake | Mount Scott                      | 6.8 | 384 | 4 | 往返 | Any | 
 Redwood | Tall Trees Grove                     | 5.3 | 228 | 2.5 | 圈 | Any | Frequently written in blogs
 Redwood | Lady Bird Johnson Grove              | 2.1 | 23 | 0.75 | 圈 | Any | Easy, trees
 Redwood | Fern Canyon                          | 1.8 | 36 | 0.75 | 圈 | Any | Filmed for Jurassic Park
-Total | 16                                     | 69.6 | 3257 | 37 | -- | -- | --
+Total | 16 hikes                               | 69.6 km | 3257 m | 37 hrs | -- | -- | --
 
 Note: Time is estimated using Tranter's Correction for Naismith's Rule using
 40min per 0.8km hiked with 300m of elevation as the fitness parameter.
@@ -116,10 +117,6 @@ src="https://www.google.com/maps/embed?pb=!1m38!1m12!1m3!1d2246216.642018245!2d-
 width="600" height="450" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
 
-![][olive-oil]
-![][kebabs]
-![][lassen peak]
-
 #### Day 2 (H9D1)
 700: Wake up  
 800: Arrive at Bumpass Hell Trail (5hr, can turn back at Bumpass Hell to half the trip)  
@@ -128,9 +125,15 @@ allowfullscreen=""></iframe>
 1500: Arrive at Cinder Cone Trail  
 1900: Finish trail & retire
 
-![][olive-oil]
-![][kebabs]
-![][lassen peak]
+<p><a
+href="https://commons.wikimedia.org/wiki/File:Cinder_Cone_Top_Panorama.png#/media/File:Cinder_Cone_Top_Panorama.png"><img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cinder_Cone_Top_Panorama.png/1200px-Cinder_Cone_Top_Panorama.png"
+alt="Cinder Cone Top Panorama.png"></a><br>By <a
+href="//commons.wikimedia.org/wiki/User:Limesave"
+title="User:Limesave">Limesave</a> - <span class="int-own-work" lang="en">Own
+work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0"
+title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a
+href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 
 #### Day 3 (H5D5)
 700: Wake up  
