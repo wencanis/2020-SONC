@@ -11,7 +11,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Packing Tips](#packing-tips)
-* [历史天气](#历史天气)
+* [天气](#天气)
 * [Candidate Plan](#candidate-plan)
     * [Day 1 (H5D7)](#day-1-h5d7)
     * [Day 2 (H9D1)](#day-2-h9d1)
@@ -41,12 +41,13 @@
   - Flashlight
   - Snack bars
 
-## 历史天气
-平均温度（括号里为历史极限）  
-- Lassen Volcanic:  (-1)**7 ~ 25**(36)
-- Lava Beds:       (-1)**10 ~ 29**(39)
-- Crater Lake:          **5 ~ 21**
-- Redwood:          (2)**11 ~ 19**(33)
+## 天气
+国家公园 | 历史平均温度（括号里为历史极限）
+:---: | :---: |
+拉森 | (-1)**7 ~ 25**(36)
+火山岩床 | (-1)**10 ~ 29**(39)
+火山口湖 | **5 ~ 21**
+红杉树 | (2)**11 ~ 19**(33)
 
 会有一些雨水，平均每月2cm。
 
