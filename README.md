@@ -52,9 +52,9 @@
 1500: Arrive at Lassen Peak Trail  
 2000: Finish trail  
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | view from top of active volcano
+lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | 活火山顶
 
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m38!1m12!1m3!1d2246216.642018245!2d-122.9240051360291!3d38.96560856074691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m23!3e0!4m5!1s0x808fcbc3fab3c59b%3A0xbcfa443f6df67e3e!2sSJC%2C%20Airport%20Boulevard%2C%20San%20Jose%2C%20CA!3m2!1d37.3639472!2d-121.92893749999999!4m5!1s0x809ad0d8051652b9%3A0x48c5869114419f0f!2sCalifornia%20State%20Capitol%20Park%2C%20L%20Street%2C%20Sacramento%2C%20CA!3m2!1d38.5759282!2d-121.4907022!4m5!1s0x8082f29c136ae2f5%3A0x103342cc7d25c3f3!2sCorning%2C%20CA!3m2!1d39.9276572!2d-122.1791556!4m3!3m2!1d40.4348776!2d-121.5344729!5e0!3m2!1sen!2sus!4v1582396507706!5m2!1sen!2sus"
@@ -69,10 +69,20 @@ allowfullscreen=""></iframe>
 1500: Arrive at Cinder Cone Trail  
 1900: Finish trail
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | a tour of hell: mud pots, sulphur vents, and boiling pools
-lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | rim of cinder cone
+lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: mud pots, sulphur vents, and boiling pools
+lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火山渣锥
+
+<p><a
+href="https://commons.wikimedia.org/wiki/File:Mudpot_at_Sulphur_Works,_Lassen_Volcanic_National_Park.jpg#/media/File:Mudpot_at_Sulphur_Works,_Lassen_Volcanic_National_Park.jpg"><img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mudpot_at_Sulphur_Works%2C_Lassen_Volcanic_National_Park.jpg/1200px-Mudpot_at_Sulphur_Works%2C_Lassen_Volcanic_National_Park.jpg"
+alt="Mudpot at Sulphur Works, Lassen Volcanic National Park.jpg"></a><br>By <a
+href="//commons.wikimedia.org/wiki/User:Frank_Schulenburg" title="User:Frank
+Schulenburg">Frank Schulenburg</a> - <span class="int-own-work" lang="en">Own
+work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0"
+title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a
+href="https://commons.wikimedia.org/w/index.php?curid=81566870">Link</a></p>
 
 <p><a
 href="https://commons.wikimedia.org/wiki/File:Cinder_Cone_Top_Panorama.png#/media/File:Cinder_Cone_Top_Panorama.png"><img
@@ -96,10 +106,10 @@ href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 1700: Dinner
 1730: Other trails as desired  
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lava beds | schonchin butte                    | 2.4 | 142 | 1.25 | 圈 | any | view of park, wild flowers
-lava beds | symbol bridge and big painted cave | 1 | 31 | 2.5 | 往返 | any | collapsed lava tubes
+lava beds | schonchin butte                    | 2.4 | 142 | 1.25 | 圈 | any | 公园全景，野花
+lava beds | symbol bridge and big painted cave | 1 | 31 | 2.5 | 往返 | any | 塌陷的熔岩管道
 
 - [Lava Beds Map](http://npmaps.com/wp-content/uploads/lava-beds-map.jpg)  
   - [Outer Caves Map](http://npmaps.com/wp-content/uploads/lava-beds-cave-map.gif)  
@@ -129,26 +139,23 @@ href="https://commons.wikimedia.org/w/index.php?curid=3011326">Link</a></p>
 1745: Petroglyph Point  
 1830: Dinner  
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lava beds | big nasty trail                    | 3.7 | 92 | 1.5 | 圈 | any | lizards, birds, mammoth crater
-lava beds | gillem bluff historic trail        | 2.3 | 115 | 1 | 往返 | any | views
-lava beds | captain jack's stronghold          | 1.1 | 21 | 0.5 | 圈 | any | history & views
+lava beds | big nasty trail                    | 3.7 | 92 | 1.5 | 圈 | any | 蜥蜴，鸟，mammoth crater
+lava beds | gillem bluff historic trail        | 2.3 | 115 | 1 | 往返 | any | 景色
+lava beds | captain jack's stronghold          | 1.1 | 21 | 0.5 | 圈 | any | 历史
 
 - [Lava Beds Map](http://npmaps.com/wp-content/uploads/lava-beds-map.jpg)  
   - [Cave Loop Driving Map](http://npmaps.com/wp-content/uploads/lava-beds-cave-loop-road-map.jpg)  
   - [Cave Loop Spelunking Map](http://npmaps.com/wp-content/uploads/lava-beds-cave-loop-map.jpg)  
 
 <p><a
-href="https://commons.wikimedia.org/wiki/File:A114,_Lava_Beds_National_Monument,_California,_USA,_Golden_Dome_Lava_Tube_Cave,_2004.jpg#/media/File:A114,_Lava_Beds_National_Monument,_California,_USA,_Golden_Dome_Lava_Tube_Cave,_2004.jpg"><img
-src="https://upload.wikimedia.org/wikipedia/commons/3/3a/A114%2C_Lava_Beds_National_Monument%2C_California%2C_USA%2C_Golden_Dome_Lava_Tube_Cave%2C_2004.jpg"
-alt="ceiling of the Golden Dome Lava Tube exhibiting a yellow hue around
-lavacicle formations"></a><br>By <a
-href="//commons.wikimedia.org/wiki/User:Brian_W._Schaller" title="User:Brian W.
-Schaller">Brian W. Schaller</a> - <span class="int-own-work" lang="en">Own
-work</span>, <a href="http://artlibre.org/licence/lal/en" title="Free Art
-License">FAL</a>, <a
-href="https://commons.wikimedia.org/w/index.php?curid=30556178">Link</a></p>
+href="https://commons.wikimedia.org/wiki/File:Valentine_Cave.JPG#/media/File:Valentine_Cave.JPG"><img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Valentine_Cave.JPG/1200px-Valentine_Cave.JPG"
+alt="Valentine Cave.JPG"></a><br>由Dave Bunnell，<a
+href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons
+Attribution-Share Alike 2.5">CC BY-SA 2.5</a>，<a
+href="https://commons.wikimedia.org/w/index.php?curid=2795794">链接</a></p>
 
 ### Day 5 (H3D8)
 630: Wake up  
@@ -163,9 +170,9 @@ href="https://commons.wikimedia.org/w/index.php?curid=30556178">Link</a></p>
 1515: Drive to Garfield Peak Trail  
 1600: Start Garfield Peak Trail   
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-crater lake | garfield peak                    | 5.5 | 326 | 3 | 往返 | late afternoon | views
+crater lake | garfield peak                    | 5.5 | 326 | 3 | 往返 | late afternoon | 午后景色
 
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1067677.0830462135!2d-122.46147518116167!3d42.341048787456366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x54cea67b57f59be3%3A0x7f5c1c5b08a8f5cb!2sLava%20Beds%20National%20Monument%20Visitor%20Center%2C%20Indian%20Well%20Campground%20Trail%2C%20Tulelake%2C%20CA!3m2!1d41.7141667!2d-121.5097222!4m5!1s0x54cec8bfffffffff%3A0xa696ea7880395f43!2sKlamath%20Basin%20National%20Wildlife%20Refuge%2C%20Hill%20Road%2C%20Tulelake%2C%20CA!3m2!1d41.9464415!2d-121.5652616!4m5!1s0x54c94b45420eb2dd%3A0xfc6a13132a3800b5!2sHomestead%2C%20CA!3m2!1d41.91361!2d-121.42193999999999!4m5!1s0x54ceb05ca88adc6b%3A0xdaab6374cb563347!2sCanby%20Cross%2C%20CA!3m2!1d41.8185542!2d-121.54364269999999!4m5!1s0x54cecf4e800dfebf%3A0x811b69aed59661a2!2sKlamath%20Strait%20Drain%2C%20California!3m2!1d41.9641848!2d-121.7426325!4m5!1s0x54cedb5ec6a7f4e7%3A0x5054761ab67fc9b!2sWelcome%20To%20Oregon%20Enjoy%20Visiting%2C%20Klamath%20Falls%2C%20OR!3m2!1d42.004904499999995!2d-121.8878079!4m5!1s0x54c8b37741e7c15b%3A0xbb19afba6e0d5f7d!2sRocky%20Point%2C%20OR!3m2!1d42.481648!2d-122.08673809999999!4m5!1s0x54c6170840e5e339%3A0x902bf2e1452fe3a3!2sCrater%20Lake%20National%20Park%2C%20Oregon!3m2!1d42.8684411!2d-122.16847849999999!5e0!3m2!1sen!2sus!4v1582399844944!5m2!1sen!2sus"
@@ -197,11 +204,11 @@ href="https://commons.wikimedia.org/w/index.php?curid=21147184">Link</a></p>
 1700: Arrive at Watchman Peak Trail  
 1830: Dinner  
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-crater lake | cleetwood cove                   | 3.4 | 190 | 2 | 往返 | any | only trail to shore & dock
-crater lake | wizard island                    | 3.7 | 229 | 2 | 圈 | any | view from centre of lake
-crater lake | watchman peak                    | 2.6 | 118 | 1.25 | 往返 | pm (since on west side of lake) | views
+crater lake | cleetwood cove                   | 3.4 | 190 | 2 | 往返 | any | 湖岸的唯一通道
+crater lake | wizard island                    | 3.7 | 229 | 2 | 圈 | any | 湖中岛
+crater lake | watchman peak                    | 2.6 | 118 | 1.25 | 往返 | pm (since on west side of lake) | 景色
 
 Note: Alternatively, can take the boat at 1245.
 
@@ -234,9 +241,9 @@ href="https://commons.wikimedia.org/w/index.php?curid=74454500">Link</a></p>
 1830: Prepare hiking food for tomorrow  
 1900: Leave for Klamath (30min drive)  
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-crater lake | mount scott                      | 6.8 | 384 | 4 | 往返 | any | highest point in park
+crater lake | mount scott                      | 6.8 | 384 | 4 | 往返 | any | 公园最高点
 
 Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 
@@ -244,6 +251,17 @@ Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1273987.7141768083!2d-123.99784432623461!3d42.12774366106056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x54c6170840e5e339%3A0x902bf2e1452fe3a3!2sCrater%20Lake%20National%20Park%2C%20Oregon!3m2!1d42.8684411!2d-122.16847849999999!4m5!1s0x54d05066e852b88d%3A0x5e8078a94235c587!2sKlamath%2C%20CA!3m2!1d41.5265092!2d-124.0384069!5e0!3m2!1sen!2sus!4v1582400262524!5m2!1sen!2sus"
 width="600" height="450" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
+
+<p><a
+href="https://commons.wikimedia.org/wiki/File:Craterlake-panorama.jpg#/media/File:Craterlake-panorama.jpg"><img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Craterlake-panorama.jpg/1200px-Craterlake-panorama.jpg"
+alt="Craterlake-panorama.jpg"></a><br>By <a
+href="//commons.wikimedia.org/wiki/User:Snottywong" class="mw-redirect"
+title="User:Snottywong">Snottywong</a> - <span class="int-own-work"
+lang="en">Own work</span>, <a
+href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons
+Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a
+href="https://commons.wikimedia.org/w/index.php?curid=13243214">Link</a></p>
 
 ### Day 8 (H5D6)
 700: Wake up  
@@ -260,11 +278,11 @@ allowfullscreen=""></iframe>
 1740: Start Fern Canyon Loop Trail  
 1930: Dinner at Patricks Point  
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-redwood | tall trees grove                     | 5.3 | 228 | 2.5 | 圈 | any | frequently written in blogs
-redwood | lady bird johnson grove              | 2.1 | 23 | 0.75 | 圈 | any | easy, trees
-redwood | fern canyon                          | 1.8 | 36 | 0.75 | 圈 | any | filmed for jurassic park
+redwood | tall trees grove                     | 5.3 | 228 | 2.5 | 圈 | any | 最受欢迎的道
+redwood | lady bird johnson grove              | 2.1 | 23 | 0.75 | 圈 | any | 简单
+redwood | fern canyon                          | 1.8 | 36 | 0.75 | 圈 | any | 侏罗纪公园取景地
 
 <p><a
 href="https://commons.wikimedia.org/wiki/File:Redwood_National_Park,_fog_in_the_forest.jpg#/media/File:Redwood_National_Park,_fog_in_the_forest.jpg"><img
@@ -330,7 +348,7 @@ Likely and uncommon sources of tardiness:
 
 ## Appendix I: All Hiking Routes
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | view from top of active volcano
 lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | a tour of hell: mud pots, sulphur vents, and boiling pools
