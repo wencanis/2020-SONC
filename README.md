@@ -69,6 +69,12 @@ park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | 
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | 活火山顶
 
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/california/lassen-peak?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m38!1m12!1m3!1d2246216.642018245!2d-122.9240051360291!3d38.96560856074691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m23!3e0!4m5!1s0x808fcbc3fab3c59b%3A0xbcfa443f6df67e3e!2sSJC%2C%20Airport%20Boulevard%2C%20San%20Jose%2C%20CA!3m2!1d37.3639472!2d-121.92893749999999!4m5!1s0x809ad0d8051652b9%3A0x48c5869114419f0f!2sCalifornia%20State%20Capitol%20Park%2C%20L%20Street%2C%20Sacramento%2C%20CA!3m2!1d38.5759282!2d-121.4907022!4m5!1s0x8082f29c136ae2f5%3A0x103342cc7d25c3f3!2sCorning%2C%20CA!3m2!1d39.9276572!2d-122.1791556!4m3!3m2!1d40.4348776!2d-121.5344729!5e0!3m2!1sen!2sus!4v1582396507706!5m2!1sen!2sus"
 width="600" height="450" frameborder="0" style="border:0;"
