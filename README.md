@@ -12,17 +12,15 @@
 
 * [Packing Tips](#packing-tips)
 * [Candidate Plan](#candidate-plan)
-    * [Hiking Routes](#hiking-routes)
-    * [Daily Plan](#daily-plan)
-        * [Day 1 (H5D7)](#day-1-h5d7)
-        * [Day 2 (H9D1)](#day-2-h9d1)
-        * [Day 3 (H5D5)](#day-3-h5d5)
-        * [Day 4 (H8D1)](#day-4-h8d1)
-        * [Day 5 (H3D8)](#day-5-h3d8)
-        * [Day 6 (H5D3)](#day-6-h5d3)
-        * [Day 7 (H4D6)](#day-7-h4d6)
-        * [Day 8 (H6D6)](#day-8-h6d6)
-        * [Day 9 (H0D10)](#day-9-h0d10)
+    * [Day 1 (H5D7)](#day-1-h5d7)
+    * [Day 2 (H9D1)](#day-2-h9d1)
+    * [Day 3 (H5D5)](#day-3-h5d5)
+    * [Day 4 (H8D1)](#day-4-h8d1)
+    * [Day 5 (H3D8)](#day-5-h3d8)
+    * [Day 6 (H5D3)](#day-6-h5d3)
+    * [Day 7 (H4D6)](#day-7-h4d6)
+    * [Day 8 (H6D6)](#day-8-h6d6)
+    * [Day 9 (H0D10)](#day-9-h0d10)
 * [Planning Constraints](#planning-constraints)
 * [Planning Criteria](#planning-criteria)
     * [Safety](#safety)
@@ -67,6 +65,7 @@
             * [Day 7 (H4D6)](#day-7-h4d6-1)
             * [Day 8 (H6D6)](#day-8-h6d6-1)
             * [Day 9 (H0D10)](#day-9-h0d10-1)
+* [Appendix IV: Hiking Routes](#appendix-iv-hiking-routes)
 
 <!-- vim-markdown-toc -->
 
@@ -80,34 +79,7 @@
   - Snack bars
 
 ## Candidate Plan
-
-### Hiking Routes
-
-Park | Trail | Distance (km) | Elevation (m) | Time (hr) | 类型 | Best Time | Unique Aspect
-:---: | :---: | :---: | :---: | :---: | :---: | :-------:
-Lassen Volcanic | Lassen Peak                  | 8.2 | 600 | 5 | 往返 | Any | View from top of active volcano
-Lassen Volcanic | Bumpass Hell                 | 10.1 | 404 | 5 | 往返 | Any | a tour of hell: mud pots, sulphur vents, and boiling pools
-Lassen Volcanic | Cinder Cone                  | 7.7 | 318 | 4 | 圈 | Any | Rim of cinder cone
-Lava Beds | Schonchin Butte                    | 2.4 | 142 | 1.25 | 圈 | Any | View of park, wild flowers
-Lava Beds | Symbol Bridge And Big Painted Cave | 1 | 31 | 2.5 | 往返 | Any | Collapsed lava tubes
-Lava Beds | Big Nasty Trail                    | 3.7 | 92 | 1.5 | 圈 | Any | Lizards, birds, Mammoth Crater
-Lava Beds | Gillem Bluff Historic Trail        | 2.3 | 115 | 1 | 往返 | Any | Views
-Lava Beds | Captain Jack's Stronghold          | 1.1 | 21 | 0.5 | 圈 | Any | History & views
-Crater Lake | Garfield Peak                    | 5.5 | 326 | 3 | 往返 | Late afternoon | Views
-Crater Lake | Cleetwood Cove                   | 3.4 | 190 | 2 | 往返 | Any | Only trail to shore & dock
-Crater Lake | Wizard Island                    | 3.7 | 229 | 2 | 圈 | Any | View from centre of lake
-Crater Lake | Watchman Peak                    | 2.6 | 118 | 1.25 | 往返 | PM (since on west side of lake) | Views
-Crater Lake | Mount Scott                      | 6.8 | 384 | 4 | 往返 | Any | Highest point in park
-Redwood | Tall Trees Grove                     | 5.3 | 228 | 2.5 | 圈 | Any | Frequently written in blogs
-Redwood | Lady Bird Johnson Grove              | 2.1 | 23 | 0.75 | 圈 | Any | Easy, trees
-Redwood | Fern Canyon                          | 1.8 | 36 | 0.75 | 圈 | Any | Filmed for Jurassic Park
-Total | 16 hikes                               | 69.6 km | 3257 m | 37 hrs | -- | -- | --
-
-Note: Time is estimated using Tranter's Correction for Naismith's Rule using
-40min per 0.8km hiked with 300m of elevation as the fitness parameter.
-
-### Daily Plan
-#### Day 1 (H5D7)
+### Day 1 (H5D7)
 600: Wake up  
 700: Leave for Sacramento  
 900: Arrive at California State Capitol Park  
@@ -118,18 +90,27 @@ Note: Time is estimated using Tranter's Correction for Naismith's Rule using
 1500: Arrive at Lassen Peak Trail  
 2000: Finish trail  
 
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | view from top of active volcano
+
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m38!1m12!1m3!1d2246216.642018245!2d-122.9240051360291!3d38.96560856074691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m23!3e0!4m5!1s0x808fcbc3fab3c59b%3A0xbcfa443f6df67e3e!2sSJC%2C%20Airport%20Boulevard%2C%20San%20Jose%2C%20CA!3m2!1d37.3639472!2d-121.92893749999999!4m5!1s0x809ad0d8051652b9%3A0x48c5869114419f0f!2sCalifornia%20State%20Capitol%20Park%2C%20L%20Street%2C%20Sacramento%2C%20CA!3m2!1d38.5759282!2d-121.4907022!4m5!1s0x8082f29c136ae2f5%3A0x103342cc7d25c3f3!2sCorning%2C%20CA!3m2!1d39.9276572!2d-122.1791556!4m3!3m2!1d40.4348776!2d-121.5344729!5e0!3m2!1sen!2sus!4v1582396507706!5m2!1sen!2sus"
 width="600" height="450" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
 
-#### Day 2 (H9D1)
+### Day 2 (H9D1)
 700: Wake up  
 800: Arrive at Bumpass Hell Trail (5hr, can turn back at Bumpass Hell to half the trip)  
 1300: Finish trail, lunch  
 1430: Arrive at Devastated Area Interpretive Trail  
 1500: Arrive at Cinder Cone Trail  
 1900: Finish trail
+
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | a tour of hell: mud pots, sulphur vents, and boiling pools
+lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | rim of cinder cone
 
 <p><a
 href="https://commons.wikimedia.org/wiki/File:Cinder_Cone_Top_Panorama.png#/media/File:Cinder_Cone_Top_Panorama.png"><img
@@ -141,7 +122,7 @@ work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0"
 title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 
-#### Day 3 (H5D5)
+### Day 3 (H5D5)
 700: Wake up  
 800: Leave for Lava Beds  
 1200: Arrive at Lava Beds  
@@ -155,12 +136,17 @@ href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 1730: Other trails as desired  
 2100: Retire
 
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+lava beds | schonchin butte                    | 2.4 | 142 | 1.25 | 圈 | any | view of park, wild flowers
+lava beds | symbol bridge and big painted cave | 1 | 31 | 2.5 | 往返 | any | collapsed lava tubes
+
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d387445.1518711632!2d-121.5689047724315!3d40.65379857210672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x54cd51b62afb5ee5%3A0xf00974a991b0359!2sDiscovery%20Center%2C%20Shingletown%2C%20CA!3m2!1d40.5371868!2d-121.5623176!4m5!1s0x54cde0d325020841%3A0x8e6a2d01c84b8607!2sMount%20Shasta%2C%20CA!3m2!1d41.3098746!2d-122.3105666!4m5!1s0x54cea67b57f59be3%3A0x7f5c1c5b08a8f5cb!2sLava%20Beds%20National%20Monument%20Visitor%20Center%2C%20Indian%20Well%20Campground%20Trail%2C%20Tulelake%2C%20CA!3m2!1d41.7141667!2d-121.5097222!5e0!3m2!1sen!2sus!4v1582399453339!5m2!1sen!2sus"
 width="600" height="450" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
 
-#### Day 4 (H8D1)
+### Day 4 (H8D1)
 700: Wake up  
 800: Mammoth Crater (Big Nasty) Trail  
 1030: Finish trail  
@@ -182,6 +168,12 @@ allowfullscreen=""></iframe>
 1830: Dinner  
 2100: Retire
 
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+lava beds | big nasty trail                    | 3.7 | 92 | 1.5 | 圈 | any | lizards, birds, mammoth crater
+lava beds | gillem bluff historic trail        | 2.3 | 115 | 1 | 往返 | any | views
+lava beds | captain jack's stronghold          | 1.1 | 21 | 0.5 | 圈 | any | history & views
+
 <p><a
 href="https://commons.wikimedia.org/wiki/File:A114,_Lava_Beds_National_Monument,_California,_USA,_Golden_Dome_Lava_Tube_Cave,_2004.jpg#/media/File:A114,_Lava_Beds_National_Monument,_California,_USA,_Golden_Dome_Lava_Tube_Cave,_2004.jpg"><img
 src="https://upload.wikimedia.org/wikipedia/commons/3/3a/A114%2C_Lava_Beds_National_Monument%2C_California%2C_USA%2C_Golden_Dome_Lava_Tube_Cave%2C_2004.jpg"
@@ -193,7 +185,7 @@ work</span>, <a href="http://artlibre.org/licence/lal/en" title="Free Art
 License">FAL</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=30556178">Link</a></p>
 
-#### Day 5 (H3D8)
+### Day 5 (H3D8)
 630: Wake up  
 730: Arrive at Tule Lake Auto Tour Route  
 815: Finish tour, arrive at visitor center for Lower Klamath & Tule Lake National Wildlife Refuge  
@@ -206,6 +198,10 @@ href="https://commons.wikimedia.org/w/index.php?curid=30556178">Link</a></p>
 1515: Drive to Garfield Peak Trail  
 1600: Start Garfield Peak Trail   
 1900: Finish trail
+
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+crater lake | garfield peak                    | 5.5 | 326 | 3 | 往返 | late afternoon | views
 
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1067677.0830462135!2d-122.46147518116167!3d42.341048787456366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x54cea67b57f59be3%3A0x7f5c1c5b08a8f5cb!2sLava%20Beds%20National%20Monument%20Visitor%20Center%2C%20Indian%20Well%20Campground%20Trail%2C%20Tulelake%2C%20CA!3m2!1d41.7141667!2d-121.5097222!4m5!1s0x54cec8bfffffffff%3A0xa696ea7880395f43!2sKlamath%20Basin%20National%20Wildlife%20Refuge%2C%20Hill%20Road%2C%20Tulelake%2C%20CA!3m2!1d41.9464415!2d-121.5652616!4m5!1s0x54c94b45420eb2dd%3A0xfc6a13132a3800b5!2sHomestead%2C%20CA!3m2!1d41.91361!2d-121.42193999999999!4m5!1s0x54ceb05ca88adc6b%3A0xdaab6374cb563347!2sCanby%20Cross%2C%20CA!3m2!1d41.8185542!2d-121.54364269999999!4m5!1s0x54cecf4e800dfebf%3A0x811b69aed59661a2!2sKlamath%20Strait%20Drain%2C%20California!3m2!1d41.9641848!2d-121.7426325!4m5!1s0x54cedb5ec6a7f4e7%3A0x5054761ab67fc9b!2sWelcome%20To%20Oregon%20Enjoy%20Visiting%2C%20Klamath%20Falls%2C%20OR!3m2!1d42.004904499999995!2d-121.8878079!4m5!1s0x54c8b37741e7c15b%3A0xbb19afba6e0d5f7d!2sRocky%20Point%2C%20OR!3m2!1d42.481648!2d-122.08673809999999!4m5!1s0x54c6170840e5e339%3A0x902bf2e1452fe3a3!2sCrater%20Lake%20National%20Park%2C%20Oregon!3m2!1d42.8684411!2d-122.16847849999999!5e0!3m2!1sen!2sus!4v1582399844944!5m2!1sen!2sus"
@@ -225,7 +221,7 @@ href="https://www.flickr.com/photos/usfws_pacificsw/5658331206/in/set-7215762658
 Attribution 2.0">CC BY 2.0</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=21147184">Link</a></p>
 
-#### Day 6 (H5D3)
+### Day 6 (H5D3)
 700: Wake up  
 800: Leave for Cleetwood Cove Trail  
 845: Arrive at Cleetwood Cove Trail  
@@ -239,6 +235,12 @@ href="https://commons.wikimedia.org/w/index.php?curid=21147184">Link</a></p>
 1830: Finish trail & eat dinner  
 1900: Enjoy views for rest of day  
 2100: Retire
+
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+crater lake | cleetwood cove                   | 3.4 | 190 | 2 | 往返 | any | only trail to shore & dock
+crater lake | wizard island                    | 3.7 | 229 | 2 | 圈 | any | view from centre of lake
+crater lake | watchman peak                    | 2.6 | 118 | 1.25 | 往返 | pm (since on west side of lake) | views
 
 Note: Alternatively, can take the boat at 1245.
 
@@ -260,7 +262,7 @@ class="image"></a>, <a href="https://creativecommons.org/licenses/by-sa/4.0"
 title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=74454500">Link</a></p>
 
-#### Day 7 (H4D6)
+### Day 7 (H4D6)
 700: Wake up  
 800: Leave for Mount Scott Trail  
 830: Arrive at Mount Scott Trail  
@@ -273,6 +275,10 @@ href="https://commons.wikimedia.org/w/index.php?curid=74454500">Link</a></p>
 1930: Arrive at Klamath  
 2100: Retire
 
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+crater lake | mount scott                      | 6.8 | 384 | 4 | 往返 | any | highest point in park
+
 Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 
 <iframe
@@ -280,7 +286,7 @@ src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1273987.7141768083!2d
 width="600" height="450" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
 
-#### Day 8 (H6D6)
+### Day 8 (H6D6)
 700: Wake up  
 800: Leave Patricks Point  
 825: Stop briefly at Big Tree Wayside  
@@ -299,6 +305,12 @@ allowfullscreen=""></iframe>
 1930: Dinner  
 2100: Retire
 
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+redwood | tall trees grove                     | 5.3 | 228 | 2.5 | 圈 | any | frequently written in blogs
+redwood | lady bird johnson grove              | 2.1 | 23 | 0.75 | 圈 | any | easy, trees
+redwood | fern canyon                          | 1.8 | 36 | 0.75 | 圈 | any | filmed for jurassic park
+
 <p><a
 href="https://commons.wikimedia.org/wiki/File:Redwood_National_Park,_fog_in_the_forest.jpg#/media/File:Redwood_National_Park,_fog_in_the_forest.jpg"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Redwood_National_Park%2C_fog_in_the_forest.jpg/1200px-Redwood_National_Park%2C_fog_in_the_forest.jpg"
@@ -309,7 +321,7 @@ alt="Redwood National Park, fog in the forest.jpg"></a><br>By Michael Schweppe
   Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a
   href="https://commons.wikimedia.org/w/index.php?curid=4049158">Link</a></p>
 
-#### Day 9 (H0D10)
+### Day 9 (H0D10)
 600: Wake up  
 700: Leave for Fort Bragg  
 1040: Arrive at Fort Bragg  
@@ -821,4 +833,27 @@ Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 2100: Arrive at San Jose  
 2200: Retire
 
-[d1-map]: d1-map.jpg "Day 1"
+## Appendix IV: Hiking Routes
+
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | view from top of active volcano
+lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | a tour of hell: mud pots, sulphur vents, and boiling pools
+lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | rim of cinder cone
+lava beds | schonchin butte                    | 2.4 | 142 | 1.25 | 圈 | any | view of park, wild flowers
+lava beds | symbol bridge and big painted cave | 1 | 31 | 2.5 | 往返 | any | collapsed lava tubes
+lava beds | big nasty trail                    | 3.7 | 92 | 1.5 | 圈 | any | lizards, birds, mammoth crater
+lava beds | gillem bluff historic trail        | 2.3 | 115 | 1 | 往返 | any | views
+lava beds | captain jack's stronghold          | 1.1 | 21 | 0.5 | 圈 | any | history & views
+crater lake | garfield peak                    | 5.5 | 326 | 3 | 往返 | late afternoon | views
+crater lake | cleetwood cove                   | 3.4 | 190 | 2 | 往返 | any | only trail to shore & dock
+crater lake | wizard island                    | 3.7 | 229 | 2 | 圈 | any | view from centre of lake
+crater lake | watchman peak                    | 2.6 | 118 | 1.25 | 往返 | pm (since on west side of lake) | views
+crater lake | mount scott                      | 6.8 | 384 | 4 | 往返 | any | highest point in park
+redwood | tall trees grove                     | 5.3 | 228 | 2.5 | 圈 | any | frequently written in blogs
+redwood | lady bird johnson grove              | 2.1 | 23 | 0.75 | 圈 | any | easy, trees
+redwood | fern canyon                          | 1.8 | 36 | 0.75 | 圈 | any | filmed for jurassic park
+total | 16 hikes                               | 69.6 km | 3257 m | 37 hrs | -- | -- | --
+
+Note: Time is estimated using Tranter's Correction for Naismith's Rule using
+40min per 0.8km hiked with 300m of elevation as the fitness parameter.
