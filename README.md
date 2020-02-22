@@ -89,51 +89,55 @@ href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 800: Leave for Lava Beds  
 1200: Arrive at Lava Beds  
 1200: Lunch  
-1300: Arrive at Black Crater Trail  
-1315: Leave for Schonchin Butte Lookout Trail  
-1500: Finish trail  
-1500: Dinner  
-1600: Symbol Bridge And Big Painted Cave  
-1700: Skull Cave Trail  
+1300: Black Crater Trail  
+1315: Schonchin Butte Lookout Trail  
+1500: Symbol Bridge And Big Painted Cave  
+1600: Skull Cave Trail  
+1700: Dinner
 1730: Other trails as desired  
-2100: Retire
 
 park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lava beds | schonchin butte                    | 2.4 | 142 | 1.25 | 圈 | any | view of park, wild flowers
 lava beds | symbol bridge and big painted cave | 1 | 31 | 2.5 | 往返 | any | collapsed lava tubes
 
+- [Lava Beds Map](http://npmaps.com/wp-content/uploads/lava-beds-map.jpg)  
+  - [Outer Caves Map](http://npmaps.com/wp-content/uploads/lava-beds-cave-map.gif)  
+
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d387445.1518711632!2d-121.5689047724315!3d40.65379857210672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x54cd51b62afb5ee5%3A0xf00974a991b0359!2sDiscovery%20Center%2C%20Shingletown%2C%20CA!3m2!1d40.5371868!2d-121.5623176!4m5!1s0x54cde0d325020841%3A0x8e6a2d01c84b8607!2sMount%20Shasta%2C%20CA!3m2!1d41.3098746!2d-122.3105666!4m5!1s0x54cea67b57f59be3%3A0x7f5c1c5b08a8f5cb!2sLava%20Beds%20National%20Monument%20Visitor%20Center%2C%20Indian%20Well%20Campground%20Trail%2C%20Tulelake%2C%20CA!3m2!1d41.7141667!2d-121.5097222!5e0!3m2!1sen!2sus!4v1582399453339!5m2!1sen!2sus"
 width="600" height="450" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
 
+<p><a
+href="https://commons.wikimedia.org/wiki/File:IlluminatedLavaTubeCropped.jpg#/media/File:IlluminatedLavaTubeCropped.jpg"><img
+src="https://upload.wikimedia.org/wikipedia/commons/a/a3/IlluminatedLavaTubeCropped.jpg"
+alt="IlluminatedLavaTubeCropped.jpg"></a><br>By <a
+href="//commons.wikimedia.org/wiki/User:Leonard_G." title="User:Leonard
+G.">Leonard G.</a> - <span class="int-own-work" lang="en">Own work</span>,
+Public Domain, <a
+href="https://commons.wikimedia.org/w/index.php?curid=3011326">Link</a></p>
+
 ### Day 4 (H8D1)
 700: Wake up  
 800: Mammoth Crater (Big Nasty) Trail  
-1030: Finish trail  
-1030: Spelunking time:  
-- Golden Dome
-- Heppe
-- Sunshine
-- Sentinel
-- Valentine
-- etc.  
+1030: Cave Loop Spelunking  
 1200: Lunch  
 1300: More spelunking  
-1600: Arrive at Gillem Bluff Historic Trail  
-1700: Finish trail  
-1700: Visit Captain Jack's Stronghold  
-1745: Finish trail  
-1745: Leave for Petroglyph Point  
+1600: Gillem Bluff Historic Trail  
+1700: Captain Jack's Stronghold  
+1745: Petroglyph Point  
 1830: Dinner  
-2100: Retire
 
 park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lava beds | big nasty trail                    | 3.7 | 92 | 1.5 | 圈 | any | lizards, birds, mammoth crater
 lava beds | gillem bluff historic trail        | 2.3 | 115 | 1 | 往返 | any | views
 lava beds | captain jack's stronghold          | 1.1 | 21 | 0.5 | 圈 | any | history & views
+
+- [Lava Beds Map](http://npmaps.com/wp-content/uploads/lava-beds-map.jpg)  
+  - [Cave Loop Driving Map](http://npmaps.com/wp-content/uploads/lava-beds-cave-loop-road-map.jpg)  
+  - [Cave Loop Spelunking Map](http://npmaps.com/wp-content/uploads/lava-beds-cave-loop-map.jpg)  
 
 <p><a
 href="https://commons.wikimedia.org/wiki/File:A114,_Lava_Beds_National_Monument,_California,_USA,_Golden_Dome_Lava_Tube_Cave,_2004.jpg#/media/File:A114,_Lava_Beds_National_Monument,_California,_USA,_Golden_Dome_Lava_Tube_Cave,_2004.jpg"><img
@@ -148,9 +152,9 @@ href="https://commons.wikimedia.org/w/index.php?curid=30556178">Link</a></p>
 
 ### Day 5 (H3D8)
 630: Wake up  
-730: Arrive at Tule Lake Auto Tour Route  
-815: Finish tour, arrive at visitor center for Lower Klamath & Tule Lake National Wildlife Refuge  
-845: Leave for Lower Klamath Auto Tour Route  
+730: Visitor center for Lower Klamath & Tule Lake National Wildlife Refuge  
+745: [Tule Lake Auto Tour Route](https://www.klamathbirdingtrails.com/sites/maps/42.gif)  
+845: [Lower Klamath Auto Tour Route](https://www.klamathbirdingtrails.com/sites/maps/41.gif)  
 930: Leave for Klamath Falls  
 1100: Arrive at Klamath Falls for lunch  
 1200: Leave for Crater Lake  
@@ -158,7 +162,6 @@ href="https://commons.wikimedia.org/w/index.php?curid=30556178">Link</a></p>
 1430: Drive to Pinnacles Overlook  
 1515: Drive to Garfield Peak Trail  
 1600: Start Garfield Peak Trail   
-1900: Finish trail
 
 park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
@@ -188,14 +191,11 @@ href="https://commons.wikimedia.org/w/index.php?curid=21147184">Link</a></p>
 845: Arrive at Cleetwood Cove Trail  
 930: Arrive at Docks  
 945: Get on Boat for Wizard Island  
-1030: Start Wizard Island Summit Trail  
-1300: Finish trail  
+1030: Wizard Island Summit Trail and relaxing  
 1500: Arrive back at Docks  
 1600: Leave trail & drive clock-wise around the lake  
 1700: Arrive at Watchman Peak Trail  
-1830: Finish trail & eat dinner  
-1900: Enjoy views for rest of day  
-2100: Retire
+1830: Dinner  
 
 park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
@@ -232,9 +232,7 @@ href="https://commons.wikimedia.org/w/index.php?curid=74454500">Link</a></p>
 1400: Leave for Redwood  
 1730: Arrive at Crescent City for dinner  
 1830: Prepare hiking food for tomorrow  
-1900: Leave for Klamath  
-1930: Arrive at Klamath  
-2100: Retire
+1900: Leave for Klamath (30min drive)  
 
 park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
@@ -251,20 +249,16 @@ allowfullscreen=""></iframe>
 700: Wake up  
 800: Leave Patricks Point  
 825: Stop briefly at Big Tree Wayside  
-850: Arrive at Thomas H. Kuchel Visitor Center  
-910: Leave visitor center  
-1000: Arrive at Tall Trees Grove Trail  
-1500: Finish trail & leave for Lady Bird Johnson Grove Trail  
-1530: Visit Redwood Creek Overlook  
-1600: Arrive at Lady Bird Johnson Grove Trail  
-1640: Finish trail & leave for Fern Canyon Loop Trail  
-1720: Arrive at Fern Canyon Loop Trail  
-1720: Quick meal at beach  
+850: Brief compulsory stop at Thomas H. Kuchel Visitor Center  
+1000: Tall Trees Grove Trail  
+1500: Leave for Lady Bird Johnson Grove Trail  
+1530: Stop at Redwood Creek Overlook  
+1600: Lady Bird Johnson Grove Trail  
+1640: Leave for Fern Canyon Loop Trail  
+1720: Fern Canyon Loop Trail  
+1720: Quick dinner at beach  
 1740: Start Fern Canyon Loop Trail  
-1820: Finish trail & leave for Patricks Point  
-1930: Arrive at Patricks Point  
-1930: Dinner  
-2100: Retire
+1930: Dinner at Patricks Point  
 
 park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | unique aspect
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
@@ -285,17 +279,13 @@ alt="Redwood National Park, fog in the forest.jpg"></a><br>By Michael Schweppe
 ### Day 9 (H0D10)
 600: Wake up  
 700: Leave for Fort Bragg  
-1040: Arrive at Fort Bragg  
-1050: Lunch  
-1150: Leave for Fort Ross  
+1040: Lunch at Fort Bragg
+1140: Leave for Fort Ross  
 1410: Arrive at [Fort Ross](https://www.fortross.org/tours.htm)  
 1430: Private Tour (need to book)  
 1630: Leave Fort Ross  
-1900: Arrive at Berkeley  
-1900: Dinner  
-2000: Leave for San Jose  
-2100: Arrive at San Jose  
-2200: Retire
+1900: Dinner at Berkeley  
+2000: Leave for San Jose (1hr drive)  
 
 <iframe
 src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d3156305.638669751!2d-125.30272645360893!3d39.4166677976184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x54d05066e852b88d%3A0x5e8078a94235c587!2sKlamath%2C%20CA!3m2!1d41.5265092!2d-124.0384069!4m5!1s0x80803553c502486f%3A0xd285848a37ac9cdf!2sFort%20Bragg%2C%20CA!3m2!1d39.445723!2d-123.80529349999999!4m5!1s0x8086a191bbd19df3%3A0xba4413e20a74559e!2sFort%20Ross%20State%20Historic%20Park%2C%20Coast%20Highway%2C%20Jenner%2C%20CA!3m2!1d38.516042999999996!2d-123.24597179999999!4m5!1s0x808579363a8549d3%3A0x94ea1595a675e993!2sBerkeley%2C%20CA!3m2!1d37.8715226!2d-122.27304199999999!4m5!1s0x808fcbc3fab3c59b%3A0xbcfa443f6df67e3e!2sSJC%2C%20Airport%20Boulevard%2C%20San%20Jose%2C%20CA!3m2!1d37.3639472!2d-121.92893749999999!5e0!3m2!1sen!2sus!4v1582400643339!5m2!1sen!2sus"
