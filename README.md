@@ -56,7 +56,7 @@
 ## Candidate Plan
 <iframe
 src="https://www.google.com/maps/d/embed?mid=1Kkl3TQAtawN6tzcRz2cs80q4ASegzmm3&hl=en"
-width="640" height="480"></iframe>
+width="500" height="375"></iframe>
 
 ### Day 1 (H5D7)
 <iframe
