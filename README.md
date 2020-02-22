@@ -74,7 +74,7 @@ allowfullscreen=""></iframe>
 1500: Arrive at Lassen Peak Trail  
 2000: Finish trail  
 
-park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | features
+park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | 活火山顶
 
@@ -108,7 +108,7 @@ work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0"
 title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 
-park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | features
+park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: mud pots, sulphur vents, and boiling pools
 lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火山渣锥
@@ -150,7 +150,7 @@ G.">Leonard G.</a> - <span class="int-own-work" lang="en">Own work</span>,
 Public Domain, <a
 href="https://commons.wikimedia.org/w/index.php?curid=3011326">Link</a></p>
 
-park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | features
+park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lava beds | schonchin butte                    | 2.4 | 142 | 1.25 | 圈 | any | 公园全景，野花
 lava beds | symbol bridge and big painted cave | 1 | 31 | 2.5 | 往返 | any | 塌陷的熔岩管道
@@ -190,10 +190,10 @@ href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons
 Attribution-Share Alike 2.5">CC BY-SA 2.5</a>，<a
 href="https://commons.wikimedia.org/w/index.php?curid=2795794">链接</a></p>
 
-park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | features
+park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lava beds | big nasty trail                    | 3.7 | 92 | 1.5 | 圈 | any | 蜥蜴，鸟，mammoth crater
-lava beds | gillem bluff historic trail        | 2.3 | 115 | 1 | 往返 | any | 景色
+lava beds | big nasty trail                    | 3.7 | 92 | 1.5 | 圈 | any | 蜥蜴、鸟、火山口
+lava beds | gillem bluff historic trail        | 2.3 | 115 | 1 | 往返 | any | 全景
 lava beds | captain jack's stronghold          | 1.1 | 21 | 0.5 | 圈 | any | 历史
 
 <iframe class="alltrails"
@@ -245,7 +245,7 @@ href="https://www.flickr.com/photos/usfws_pacificsw/5658331206/in/set-7215762658
 Attribution 2.0">CC BY 2.0</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=21147184">Link</a></p>
 
-park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | features
+park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 crater lake | garfield peak                    | 5.5 | 326 | 3 | 往返 | late afternoon | 午后景色
 
@@ -287,7 +287,7 @@ class="image"></a>, <a href="https://creativecommons.org/licenses/by-sa/4.0"
 title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=74454500">Link</a></p>
 
-park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | features
+park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 crater lake | cleetwood cove                   | 3.4 | 190 | 2 | 往返 | any | 湖岸的唯一通道
 crater lake | wizard island                    | 3.7 | 229 | 2 | 圈 | any | 湖中岛
@@ -340,7 +340,7 @@ href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons
 Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=13243214">Link</a></p>
 
-park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | features
+park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 crater lake | mount scott                      | 6.8 | 384 | 4 | 往返 | any | 公园最高点
 
@@ -375,7 +375,7 @@ alt="Redwood National Park, fog in the forest.jpg"></a><br>By Michael Schweppe
   Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a
   href="https://commons.wikimedia.org/w/index.php?curid=4049158">Link</a></p>
 
-park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | features
+park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 redwood | tall trees grove                     | 5.3 | 228 | 2.5 | 圈 | any | 最受欢迎的道
 redwood | lady bird johnson grove              | 2.1 | 23 | 0.75 | 圈 | any | 简单
@@ -453,7 +453,7 @@ Likely and uncommon sources of tardiness:
 
 ## Appendix I: All Hiking Routes
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型
+park | trail | distance (km) | 高 (m) | time (hr) | 类型
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返
 lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返
