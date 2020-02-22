@@ -14,12 +14,12 @@
 * [Candidate Plan](#candidate-plan)
     * [Day 1 (H5D7)](#day-1-h5d7)
     * [Day 2 (H9D1)](#day-2-h9d1)
-    * [Day 3 (H5D5)](#day-3-h5d5)
+    * [Day 3 (H4D5)](#day-3-h4d5)
     * [Day 4 (H8D1)](#day-4-h8d1)
     * [Day 5 (H3D8)](#day-5-h3d8)
     * [Day 6 (H5D3)](#day-6-h5d3)
     * [Day 7 (H4D6)](#day-7-h4d6)
-    * [Day 8 (H6D6)](#day-8-h6d6)
+    * [Day 8 (H5D6)](#day-8-h5d6)
     * [Day 9 (H0D10)](#day-9-h0d10)
 * [Planning Constraints](#planning-constraints)
 * [Planning Criteria](#planning-criteria)
@@ -58,12 +58,12 @@
         * [Hourly Plan](#hourly-plan-1)
             * [Day 1 (H5D7)](#day-1-h5d7-1)
             * [Day 2 (H9D1)](#day-2-h9d1-1)
-            * [Day 3 (H5D5)](#day-3-h5d5-1)
+            * [Day 3 (H5D5)](#day-3-h5d5)
             * [Day 4 (H8D1)](#day-4-h8d1-1)
             * [Day 5 (H3D8)](#day-5-h3d8-1)
             * [Day 6 (H5D3)](#day-6-h5d3-1)
             * [Day 7 (H4D6)](#day-7-h4d6-1)
-            * [Day 8 (H6D6)](#day-8-h6d6-1)
+            * [Day 8 (H6D6)](#day-8-h6d6)
             * [Day 9 (H0D10)](#day-9-h0d10-1)
 * [Appendix IV: Hiking Routes](#appendix-iv-hiking-routes)
 
@@ -122,7 +122,7 @@ work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0"
 title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 
-### Day 3 (H5D5)
+### Day 3 (H4D5)
 700: Wake up  
 800: Leave for Lava Beds  
 1200: Arrive at Lava Beds  
@@ -150,14 +150,13 @@ allowfullscreen=""></iframe>
 700: Wake up  
 800: Mammoth Crater (Big Nasty) Trail  
 1030: Finish trail  
-1030: Spelunking time:
- - Golden Dome
- - Heppe
- - Sunshine
- - Sentinel
- - Valentine
- - etc.
-
+1030: Spelunking time:  
+- Golden Dome
+- Heppe
+- Sunshine
+- Sentinel
+- Valentine
+- etc.  
 1200: Lunch  
 1300: More spelunking  
 1600: Arrive at Gillem Bluff Historic Trail  
@@ -286,7 +285,7 @@ src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1273987.7141768083!2d
 width="600" height="450" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
 
-### Day 8 (H6D6)
+### Day 8 (H5D6)
 700: Wake up  
 800: Leave Patricks Point  
 825: Stop briefly at Big Tree Wayside  
