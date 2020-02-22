@@ -42,10 +42,9 @@
   - Snack bars
 
 ## 天气
-
-| park | trail |
-| :---: | :---: |
-| hello | world |
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | 活火山顶
 <!---
 | 国家公园 | 历史平均温度（括号里为历史极限）|
 | 拉森 | (-1)**7 ~ 25**(36) |
