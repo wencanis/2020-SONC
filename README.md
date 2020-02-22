@@ -1,5 +1,11 @@
 # NorCal & South Oregon Road Trip
-少数具体尚为秘密
+**Official Maps**
+- [Lassen Volcanic Map](http://npmaps.com/wp-content/uploads/lassen-volcanic-map.jpg)  
+- [Lava Beds Map](http://npmaps.com/wp-content/uploads/lava-beds-map.jpg)  
+  - [Cave Loop Driving Map](http://npmaps.com/wp-content/uploads/lava-beds-cave-loop-road-map.jpg)  
+  - [Cave Loop Spelunking Map](http://npmaps.com/wp-content/uploads/lava-beds-cave-loop-map.jpg)  
+  - [Outer Caves Map](http://npmaps.com/wp-content/uploads/lava-beds-cave-map.gif)  
+- [Crater Lake Map](http://npmaps.com/wp-content/uploads/crater-lake-map.jpg)  
 
 ## Table of Contents
 <!-- vim-markdown-toc GFM -->
@@ -123,7 +129,7 @@ allowfullscreen=""></iframe>
 1300: Finish trail, lunch  
 1430: Arrive at Devastated Area Interpretive Trail  
 1500: Arrive at Cinder Cone Trail  
-1900: Finish trail & retire
+1900: Finish trail
 
 <p><a
 href="https://commons.wikimedia.org/wiki/File:Cinder_Cone_Top_Panorama.png#/media/File:Cinder_Cone_Top_Panorama.png"><img
@@ -149,6 +155,11 @@ href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 1730: Other trails as desired  
 2100: Retire
 
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d387445.1518711632!2d-121.5689047724315!3d40.65379857210672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x54cd51b62afb5ee5%3A0xf00974a991b0359!2sDiscovery%20Center%2C%20Shingletown%2C%20CA!3m2!1d40.5371868!2d-121.5623176!4m5!1s0x54cde0d325020841%3A0x8e6a2d01c84b8607!2sMount%20Shasta%2C%20CA!3m2!1d41.3098746!2d-122.3105666!4m5!1s0x54cea67b57f59be3%3A0x7f5c1c5b08a8f5cb!2sLava%20Beds%20National%20Monument%20Visitor%20Center%2C%20Indian%20Well%20Campground%20Trail%2C%20Tulelake%2C%20CA!3m2!1d41.7141667!2d-121.5097222!5e0!3m2!1sen!2sus!4v1582399453339!5m2!1sen!2sus"
+width="600" height="450" frameborder="0" style="border:0;"
+allowfullscreen=""></iframe>
+
 #### Day 4 (H8D1)
 700: Wake up  
 800: Mammoth Crater (Big Nasty) Trail  
@@ -171,21 +182,48 @@ href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 1830: Dinner  
 2100: Retire
 
+<p><a
+href="https://commons.wikimedia.org/wiki/File:A114,_Lava_Beds_National_Monument,_California,_USA,_Golden_Dome_Lava_Tube_Cave,_2004.jpg#/media/File:A114,_Lava_Beds_National_Monument,_California,_USA,_Golden_Dome_Lava_Tube_Cave,_2004.jpg"><img
+src="https://upload.wikimedia.org/wikipedia/commons/3/3a/A114%2C_Lava_Beds_National_Monument%2C_California%2C_USA%2C_Golden_Dome_Lava_Tube_Cave%2C_2004.jpg"
+alt="ceiling of the Golden Dome Lava Tube exhibiting a yellow hue around
+lavacicle formations"></a><br>By <a
+href="//commons.wikimedia.org/wiki/User:Brian_W._Schaller" title="User:Brian W.
+Schaller">Brian W. Schaller</a> - <span class="int-own-work" lang="en">Own
+work</span>, <a href="http://artlibre.org/licence/lal/en" title="Free Art
+License">FAL</a>, <a
+href="https://commons.wikimedia.org/w/index.php?curid=30556178">Link</a></p>
+
 #### Day 5 (H3D8)
 630: Wake up  
 730: Arrive at Tule Lake Auto Tour Route  
 815: Finish tour, arrive at visitor center for Lower Klamath & Tule Lake National Wildlife Refuge  
 845: Leave for Lower Klamath Auto Tour Route  
 930: Leave for Klamath Falls  
-1230: Arrive at Klamath Falls  
-1230: Lunch  
-1330: Leave for Crater Lake  
-1500: Arrive at Crater Lake  
-1600: Drive to Pinnacles Overlook  
-1645: Drive to Garfield Peak Trail  
-1730: Start Garfield Peak Trail   
-2000: Finish trail & eat dinner  
-2100: Retire
+1100: Arrive at Klamath Falls for lunch  
+1200: Leave for Crater Lake  
+1330: Arrive at [Crater Lake](http://npmaps.com/wp-content/uploads/crater-lake-map.jpg)  
+1430: Drive to Pinnacles Overlook  
+1515: Drive to Garfield Peak Trail  
+1600: Start Garfield Peak Trail   
+1900: Finish trail
+
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1067677.0830462135!2d-122.46147518116167!3d42.341048787456366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x54cea67b57f59be3%3A0x7f5c1c5b08a8f5cb!2sLava%20Beds%20National%20Monument%20Visitor%20Center%2C%20Indian%20Well%20Campground%20Trail%2C%20Tulelake%2C%20CA!3m2!1d41.7141667!2d-121.5097222!4m5!1s0x54cec8bfffffffff%3A0xa696ea7880395f43!2sKlamath%20Basin%20National%20Wildlife%20Refuge%2C%20Hill%20Road%2C%20Tulelake%2C%20CA!3m2!1d41.9464415!2d-121.5652616!4m5!1s0x54c94b45420eb2dd%3A0xfc6a13132a3800b5!2sHomestead%2C%20CA!3m2!1d41.91361!2d-121.42193999999999!4m5!1s0x54ceb05ca88adc6b%3A0xdaab6374cb563347!2sCanby%20Cross%2C%20CA!3m2!1d41.8185542!2d-121.54364269999999!4m5!1s0x54cecf4e800dfebf%3A0x811b69aed59661a2!2sKlamath%20Strait%20Drain%2C%20California!3m2!1d41.9641848!2d-121.7426325!4m5!1s0x54cedb5ec6a7f4e7%3A0x5054761ab67fc9b!2sWelcome%20To%20Oregon%20Enjoy%20Visiting%2C%20Klamath%20Falls%2C%20OR!3m2!1d42.004904499999995!2d-121.8878079!4m5!1s0x54c8b37741e7c15b%3A0xbb19afba6e0d5f7d!2sRocky%20Point%2C%20OR!3m2!1d42.481648!2d-122.08673809999999!4m5!1s0x54c6170840e5e339%3A0x902bf2e1452fe3a3!2sCrater%20Lake%20National%20Park%2C%20Oregon!3m2!1d42.8684411!2d-122.16847849999999!5e0!3m2!1sen!2sus!4v1582399844944!5m2!1sen!2sus"
+width="600" height="450" frameborder="0" style="border:0;"
+allowfullscreen=""></iframe>
+
+<p><a
+href="https://commons.wikimedia.org/wiki/File:Lower_Klamath_National_Wildlife_Refuge.jpg#/media/File:Lower_Klamath_National_Wildlife_Refuge.jpg"><img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lower_Klamath_National_Wildlife_Refuge.jpg/1200px-Lower_Klamath_National_Wildlife_Refuge.jpg"
+alt="Lower Klamath National Wildlife Refuge.jpg"></a><br>By <a
+href="//commons.wikimedia.org/wiki/Category:U.S._Fish_and_Wildlife_Service_Pacific_Southwest_Region"
+title="Category:U.S. Fish and Wildlife Service Pacific Southwest Region">U.S.
+Fish and Wildlife Service Pacific Southwest Region</a>, photographer unknown -
+Flickr at <a rel="nofollow" class="external free"
+href="https://www.flickr.com/photos/usfws_pacificsw/5658331206/in/set-72157626584635164/">https://www.flickr.com/photos/usfws_pacificsw/5658331206/in/set-72157626584635164/</a>,
+<a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons
+Attribution 2.0">CC BY 2.0</a>, <a
+href="https://commons.wikimedia.org/w/index.php?curid=21147184">Link</a></p>
 
 #### Day 6 (H5D3)
 700: Wake up  
@@ -204,6 +242,24 @@ href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 
 Note: Alternatively, can take the boat at 1245.
 
+<p><a
+href="https://commons.wikimedia.org/wiki/File:Above_Crater_Lake_(cropped).jpg#/media/File:Above_Crater_Lake_(cropped).jpg"><img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Above_Crater_Lake_%28cropped%29.jpg/1200px-Above_Crater_Lake_%28cropped%29.jpg"
+alt="Above Crater Lake (cropped).jpg"></a><br>By <a
+href="//commons.wikimedia.org/w/index.php?title=User:Athleticamps&amp;action=edit&amp;redlink=1"
+class="new" title="User:Athleticamps (page does not exist)">Athleticamps</a>
+derivative work: <a href="//commons.wikimedia.org/wiki/User:Maps_and_stuff"
+title="User:Maps and stuff">User:Maps and stuff</a> (cropped to 2.5:1 ratio,
+eliminating sign and stone structure on right while centering on lake;
+increased brightness in dark areas; saved as a high quality JPG) - This file
+was derived from:&nbsp; <a
+href="//commons.wikimedia.org/wiki/File:Above_Crater_Lake.jpg"
+title="File:Above Crater Lake.jpg">Above Crater Lake.jpg</a>:&nbsp;<a
+href="//commons.wikimedia.org/wiki/File:Above_Crater_Lake.jpg"
+class="image"></a>, <a href="https://creativecommons.org/licenses/by-sa/4.0"
+title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a
+href="https://commons.wikimedia.org/w/index.php?curid=74454500">Link</a></p>
+
 #### Day 7 (H4D6)
 700: Wake up  
 800: Leave for Mount Scott Trail  
@@ -218,6 +274,11 @@ Note: Alternatively, can take the boat at 1245.
 2100: Retire
 
 Note: Alternatively, can take the boat at 945 or even 1245 on this day.
+
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1273987.7141768083!2d-123.99784432623461!3d42.12774366106056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x54c6170840e5e339%3A0x902bf2e1452fe3a3!2sCrater%20Lake%20National%20Park%2C%20Oregon!3m2!1d42.8684411!2d-122.16847849999999!4m5!1s0x54d05066e852b88d%3A0x5e8078a94235c587!2sKlamath%2C%20CA!3m2!1d41.5265092!2d-124.0384069!5e0!3m2!1sen!2sus!4v1582400262524!5m2!1sen!2sus"
+width="600" height="450" frameborder="0" style="border:0;"
+allowfullscreen=""></iframe>
 
 #### Day 8 (H6D6)
 700: Wake up  
@@ -238,6 +299,16 @@ Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 1930: Dinner  
 2100: Retire
 
+<p><a
+href="https://commons.wikimedia.org/wiki/File:Redwood_National_Park,_fog_in_the_forest.jpg#/media/File:Redwood_National_Park,_fog_in_the_forest.jpg"><img
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Redwood_National_Park%2C_fog_in_the_forest.jpg/1200px-Redwood_National_Park%2C_fog_in_the_forest.jpg"
+alt="Redwood National Park, fog in the forest.jpg"></a><br>By Michael Schweppe
+- <a rel="nofollow" class="external free"
+  href="https://www.flickr.com/photos/schweppe/21556590/">https://www.flickr.com/photos/schweppe/21556590/</a>,
+  <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative
+  Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a
+  href="https://commons.wikimedia.org/w/index.php?curid=4049158">Link</a></p>
+
 #### Day 9 (H0D10)
 600: Wake up  
 700: Leave for Fort Bragg  
@@ -252,6 +323,11 @@ Note: Alternatively, can take the boat at 945 or even 1245 on this day.
 2000: Leave for San Jose  
 2100: Arrive at San Jose  
 2200: Retire
+
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d3156305.638669751!2d-125.30272645360893!3d39.4166677976184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0x54d05066e852b88d%3A0x5e8078a94235c587!2sKlamath%2C%20CA!3m2!1d41.5265092!2d-124.0384069!4m5!1s0x80803553c502486f%3A0xd285848a37ac9cdf!2sFort%20Bragg%2C%20CA!3m2!1d39.445723!2d-123.80529349999999!4m5!1s0x8086a191bbd19df3%3A0xba4413e20a74559e!2sFort%20Ross%20State%20Historic%20Park%2C%20Coast%20Highway%2C%20Jenner%2C%20CA!3m2!1d38.516042999999996!2d-123.24597179999999!4m5!1s0x808579363a8549d3%3A0x94ea1595a675e993!2sBerkeley%2C%20CA!3m2!1d37.8715226!2d-122.27304199999999!4m5!1s0x808fcbc3fab3c59b%3A0xbcfa443f6df67e3e!2sSJC%2C%20Airport%20Boulevard%2C%20San%20Jose%2C%20CA!3m2!1d37.3639472!2d-121.92893749999999!5e0!3m2!1sen!2sus!4v1582400643339!5m2!1sen!2sus"
+width="600" height="450" frameborder="0" style="border:0;"
+allowfullscreen=""></iframe>
 
 ## Planning Constraints
 Each primary destination needs to have the following:
