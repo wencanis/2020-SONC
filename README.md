@@ -43,6 +43,7 @@
 
 ## Weather
 Table
+
 park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | 活火山顶
