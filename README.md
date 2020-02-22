@@ -114,8 +114,8 @@ lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any |
 lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火山渣锥
 
 <iframe class="alltrails"
-src="https://www.alltrails.com/widget/trail/us/california/bunchgrass-trail-and-hill-road-loop?u=m"
-width="100%" height="300" frameborder="0" scrolling="no" marginheight="0"
+src="https://www.alltrails.com/widget/trail/us/california/bumpass-hell?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
 marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
 and Running"></iframe>
 
