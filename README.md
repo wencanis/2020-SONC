@@ -111,17 +111,14 @@ Note: Time is estimated using Tranter's Correction for Naismith's Rule using
 1500: Arrive at Lassen Peak Trail  
 2000: Finish trail  
 
-<iframe width="425" height="350" frameborder="0" scrolling="no"
-marginheight="0" marginwidth="0"
-src="https://www.openstreetmap.org/export/embed.html?bbox=-123.92028808593751%2C36.76529191711624%2C-119.71252441406251%2C39.193948213963665&amp;layer=mapnik"
-style="border: 1px solid black"></iframe><br/><small><a
-href="https://www.openstreetmap.org/#map=8/37.990/-121.816">View Larger
-Map</a></small>
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m38!1m12!1m3!1d2246216.642018245!2d-122.9240051360291!3d38.96560856074691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m23!3e0!4m5!1s0x808fcbc3fab3c59b%3A0xbcfa443f6df67e3e!2sSJC%2C%20Airport%20Boulevard%2C%20San%20Jose%2C%20CA!3m2!1d37.3639472!2d-121.92893749999999!4m5!1s0x809ad0d8051652b9%3A0x48c5869114419f0f!2sCalifornia%20State%20Capitol%20Park%2C%20L%20Street%2C%20Sacramento%2C%20CA!3m2!1d38.5759282!2d-121.4907022!4m5!1s0x8082f29c136ae2f5%3A0x103342cc7d25c3f3!2sCorning%2C%20CA!3m2!1d39.9276572!2d-122.1791556!4m3!3m2!1d40.4348776!2d-121.5344729!5e0!3m2!1sen!2sus!4v1582396507706!5m2!1sen!2sus"
+width="600" height="450" frameborder="0" style="border:0;"
+allowfullscreen=""></iframe>
 
 ![][olive-oil]
 ![][kebabs]
 ![][lassen peak]
-![][1d0](1d0.jpg)
 
 #### Day 2 (H9D1)
 700: Wake up  
@@ -130,6 +127,10 @@ Map</a></small>
 1430: Arrive at Devastated Area Interpretive Trail  
 1500: Arrive at Cinder Cone Trail  
 1900: Finish trail & retire
+
+![][olive-oil]
+![][kebabs]
+![][lassen peak]
 
 #### Day 3 (H5D5)
 700: Wake up  
