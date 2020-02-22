@@ -74,7 +74,7 @@ park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | 
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | 活火山顶
 
-<iframe src="https://www.alltrails.com/widget/trail/us/california/lassen-peak?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
+<iframe class="alltrails" src="https://www.alltrails.com/widget/trail/us/california/lassen-peak?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
 ### Day 2 (H9D1)
 700: Wake up  
@@ -83,13 +83,6 @@ lassen volcanic | lassen peak                  | 8.2 | 600 | 5 | 往返 | any | 
 1430: Arrive at Devastated Area Interpretive Trail  
 1500: Arrive at Cinder Cone Trail  
 1900: Finish trail
-
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
-:---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: mud pots, sulphur vents, and boiling pools
-lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火山渣锥
-
-<iframe class="alltrails" src="https://www.alltrails.com/widget/trail/us/california/cinder-cone-nature-trail?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
 
 <p><a
 href="https://commons.wikimedia.org/wiki/File:Mudpot_at_Sulphur_Works,_Lassen_Volcanic_National_Park.jpg#/media/File:Mudpot_at_Sulphur_Works,_Lassen_Volcanic_National_Park.jpg"><img
@@ -111,7 +104,25 @@ work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0"
 title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: mud pots, sulphur vents, and boiling pools
+lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火山渣锥
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/california/bunchgrass-trail-and-hill-road-loop?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
+<iframe class="alltrails" src="https://www.alltrails.com/widget/trail/us/california/cinder-cone-nature-trail?u=m" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping, and Running"></iframe>
+
 ### Day 3 (H4D5)
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d387445.1518711632!2d-121.5689047724315!3d40.65379857210672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x54cd51b62afb5ee5%3A0xf00974a991b0359!2sDiscovery%20Center%2C%20Shingletown%2C%20CA!3m2!1d40.5371868!2d-121.5623176!4m5!1s0x54cde0d325020841%3A0x8e6a2d01c84b8607!2sMount%20Shasta%2C%20CA!3m2!1d41.3098746!2d-122.3105666!4m5!1s0x54cea67b57f59be3%3A0x7f5c1c5b08a8f5cb!2sLava%20Beds%20National%20Monument%20Visitor%20Center%2C%20Indian%20Well%20Campground%20Trail%2C%20Tulelake%2C%20CA!3m2!1d41.7141667!2d-121.5097222!5e0!3m2!1sen!2sus!4v1582399453339!5m2!1sen!2sus"
+width="600" height="450" frameborder="0" style="border:0;"
+allowfullscreen=""></iframe>
+
 700: Wake up  
 800: Leave for Lava Beds  
 1200: Arrive at Lava Beds  
@@ -123,18 +134,8 @@ href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 1700: Dinner
 1730: Other trails as desired  
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
-:---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lava beds | schonchin butte                    | 2.4 | 142 | 1.25 | 圈 | any | 公园全景，野花
-lava beds | symbol bridge and big painted cave | 1 | 31 | 2.5 | 往返 | any | 塌陷的熔岩管道
-
 - [Lava Beds Map](http://npmaps.com/wp-content/uploads/lava-beds-map.jpg)  
   - [Outer Caves Map](http://npmaps.com/wp-content/uploads/lava-beds-cave-map.gif)  
-
-<iframe
-src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d387445.1518711632!2d-121.5689047724315!3d40.65379857210672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x54cd51b62afb5ee5%3A0xf00974a991b0359!2sDiscovery%20Center%2C%20Shingletown%2C%20CA!3m2!1d40.5371868!2d-121.5623176!4m5!1s0x54cde0d325020841%3A0x8e6a2d01c84b8607!2sMount%20Shasta%2C%20CA!3m2!1d41.3098746!2d-122.3105666!4m5!1s0x54cea67b57f59be3%3A0x7f5c1c5b08a8f5cb!2sLava%20Beds%20National%20Monument%20Visitor%20Center%2C%20Indian%20Well%20Campground%20Trail%2C%20Tulelake%2C%20CA!3m2!1d41.7141667!2d-121.5097222!5e0!3m2!1sen!2sus!4v1582399453339!5m2!1sen!2sus"
-width="600" height="450" frameborder="0" style="border:0;"
-allowfullscreen=""></iframe>
 
 <p><a
 href="https://commons.wikimedia.org/wiki/File:IlluminatedLavaTubeCropped.jpg#/media/File:IlluminatedLavaTubeCropped.jpg"><img
@@ -144,6 +145,23 @@ href="//commons.wikimedia.org/wiki/User:Leonard_G." title="User:Leonard
 G.">Leonard G.</a> - <span class="int-own-work" lang="en">Own work</span>,
 Public Domain, <a
 href="https://commons.wikimedia.org/w/index.php?curid=3011326">Link</a></p>
+
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+lava beds | schonchin butte                    | 2.4 | 142 | 1.25 | 圈 | any | 公园全景，野花
+lava beds | symbol bridge and big painted cave | 1 | 31 | 2.5 | 往返 | any | 塌陷的熔岩管道
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/california/schonchin-butte-lookout-trail?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/california/symbol-bridge-and-big-painted-cave?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
 
 ### Day 4 (H8D1)
 700: Wake up  
@@ -155,12 +173,6 @@ href="https://commons.wikimedia.org/w/index.php?curid=3011326">Link</a></p>
 1700: Captain Jack's Stronghold  
 1745: Petroglyph Point  
 1830: Dinner  
-
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
-:---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lava beds | big nasty trail                    | 3.7 | 92 | 1.5 | 圈 | any | 蜥蜴，鸟，mammoth crater
-lava beds | gillem bluff historic trail        | 2.3 | 115 | 1 | 往返 | any | 景色
-lava beds | captain jack's stronghold          | 1.1 | 21 | 0.5 | 圈 | any | 历史
 
 - [Lava Beds Map](http://npmaps.com/wp-content/uploads/lava-beds-map.jpg)  
   - [Cave Loop Driving Map](http://npmaps.com/wp-content/uploads/lava-beds-cave-loop-road-map.jpg)  
@@ -174,7 +186,36 @@ href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons
 Attribution-Share Alike 2.5">CC BY-SA 2.5</a>，<a
 href="https://commons.wikimedia.org/w/index.php?curid=2795794">链接</a></p>
 
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+lava beds | big nasty trail                    | 3.7 | 92 | 1.5 | 圈 | any | 蜥蜴，鸟，mammoth crater
+lava beds | gillem bluff historic trail        | 2.3 | 115 | 1 | 往返 | any | 景色
+lava beds | captain jack's stronghold          | 1.1 | 21 | 0.5 | 圈 | any | 历史
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/california/big-nasty-trail--2?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/california/gillem-bluff-historic-trail?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/california/captain-jacks-stronghold-captain-jacks-trail?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
 ### Day 5 (H3D8)
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1067677.0830462135!2d-122.46147518116167!3d42.341048787456366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x54cea67b57f59be3%3A0x7f5c1c5b08a8f5cb!2sLava%20Beds%20National%20Monument%20Visitor%20Center%2C%20Indian%20Well%20Campground%20Trail%2C%20Tulelake%2C%20CA!3m2!1d41.7141667!2d-121.5097222!4m5!1s0x54cec8bfffffffff%3A0xa696ea7880395f43!2sKlamath%20Basin%20National%20Wildlife%20Refuge%2C%20Hill%20Road%2C%20Tulelake%2C%20CA!3m2!1d41.9464415!2d-121.5652616!4m5!1s0x54c94b45420eb2dd%3A0xfc6a13132a3800b5!2sHomestead%2C%20CA!3m2!1d41.91361!2d-121.42193999999999!4m5!1s0x54ceb05ca88adc6b%3A0xdaab6374cb563347!2sCanby%20Cross%2C%20CA!3m2!1d41.8185542!2d-121.54364269999999!4m5!1s0x54cecf4e800dfebf%3A0x811b69aed59661a2!2sKlamath%20Strait%20Drain%2C%20California!3m2!1d41.9641848!2d-121.7426325!4m5!1s0x54cedb5ec6a7f4e7%3A0x5054761ab67fc9b!2sWelcome%20To%20Oregon%20Enjoy%20Visiting%2C%20Klamath%20Falls%2C%20OR!3m2!1d42.004904499999995!2d-121.8878079!4m5!1s0x54c8b37741e7c15b%3A0xbb19afba6e0d5f7d!2sRocky%20Point%2C%20OR!3m2!1d42.481648!2d-122.08673809999999!4m5!1s0x54c6170840e5e339%3A0x902bf2e1452fe3a3!2sCrater%20Lake%20National%20Park%2C%20Oregon!3m2!1d42.8684411!2d-122.16847849999999!5e0!3m2!1sen!2sus!4v1582399844944!5m2!1sen!2sus"
+width="600" height="450" frameborder="0" style="border:0;"
+allowfullscreen=""></iframe>
+
 630: Wake up  
 730: Visitor center for Lower Klamath & Tule Lake National Wildlife Refuge  
 745: [Tule Lake Auto Tour Route](https://www.klamathbirdingtrails.com/sites/maps/42.gif)  
@@ -186,15 +227,6 @@ href="https://commons.wikimedia.org/w/index.php?curid=2795794">链接</a></p>
 1430: Drive to Pinnacles Overlook  
 1515: Drive to Garfield Peak Trail  
 1600: Start Garfield Peak Trail   
-
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
-:---: | :---: | :---: | :---: | :---: | :---: | :-------:
-crater lake | garfield peak                    | 5.5 | 326 | 3 | 往返 | late afternoon | 午后景色
-
-<iframe
-src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1067677.0830462135!2d-122.46147518116167!3d42.341048787456366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x54cea67b57f59be3%3A0x7f5c1c5b08a8f5cb!2sLava%20Beds%20National%20Monument%20Visitor%20Center%2C%20Indian%20Well%20Campground%20Trail%2C%20Tulelake%2C%20CA!3m2!1d41.7141667!2d-121.5097222!4m5!1s0x54cec8bfffffffff%3A0xa696ea7880395f43!2sKlamath%20Basin%20National%20Wildlife%20Refuge%2C%20Hill%20Road%2C%20Tulelake%2C%20CA!3m2!1d41.9464415!2d-121.5652616!4m5!1s0x54c94b45420eb2dd%3A0xfc6a13132a3800b5!2sHomestead%2C%20CA!3m2!1d41.91361!2d-121.42193999999999!4m5!1s0x54ceb05ca88adc6b%3A0xdaab6374cb563347!2sCanby%20Cross%2C%20CA!3m2!1d41.8185542!2d-121.54364269999999!4m5!1s0x54cecf4e800dfebf%3A0x811b69aed59661a2!2sKlamath%20Strait%20Drain%2C%20California!3m2!1d41.9641848!2d-121.7426325!4m5!1s0x54cedb5ec6a7f4e7%3A0x5054761ab67fc9b!2sWelcome%20To%20Oregon%20Enjoy%20Visiting%2C%20Klamath%20Falls%2C%20OR!3m2!1d42.004904499999995!2d-121.8878079!4m5!1s0x54c8b37741e7c15b%3A0xbb19afba6e0d5f7d!2sRocky%20Point%2C%20OR!3m2!1d42.481648!2d-122.08673809999999!4m5!1s0x54c6170840e5e339%3A0x902bf2e1452fe3a3!2sCrater%20Lake%20National%20Park%2C%20Oregon!3m2!1d42.8684411!2d-122.16847849999999!5e0!3m2!1sen!2sus!4v1582399844944!5m2!1sen!2sus"
-width="600" height="450" frameborder="0" style="border:0;"
-allowfullscreen=""></iframe>
 
 <p><a
 href="https://commons.wikimedia.org/wiki/File:Lower_Klamath_National_Wildlife_Refuge.jpg#/media/File:Lower_Klamath_National_Wildlife_Refuge.jpg"><img
@@ -209,6 +241,16 @@ href="https://www.flickr.com/photos/usfws_pacificsw/5658331206/in/set-7215762658
 Attribution 2.0">CC BY 2.0</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=21147184">Link</a></p>
 
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+crater lake | garfield peak                    | 5.5 | 326 | 3 | 往返 | late afternoon | 午后景色
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/oregon/garfield-peak-trail?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
 ### Day 6 (H5D3)
 700: Wake up  
 800: Leave for Cleetwood Cove Trail  
@@ -220,12 +262,6 @@ href="https://commons.wikimedia.org/w/index.php?curid=21147184">Link</a></p>
 1600: Leave trail & drive clock-wise around the lake  
 1700: Arrive at Watchman Peak Trail  
 1830: Dinner  
-
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
-:---: | :---: | :---: | :---: | :---: | :---: | :-------:
-crater lake | cleetwood cove                   | 3.4 | 190 | 2 | 往返 | any | 湖岸的唯一通道
-crater lake | wizard island                    | 3.7 | 229 | 2 | 圈 | any | 湖中岛
-crater lake | watchman peak                    | 2.6 | 118 | 1.25 | 往返 | pm (since on west side of lake) | 景色
 
 Note: Alternatively, can take the boat at 1245.
 
@@ -247,7 +283,36 @@ class="image"></a>, <a href="https://creativecommons.org/licenses/by-sa/4.0"
 title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=74454500">Link</a></p>
 
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+crater lake | cleetwood cove                   | 3.4 | 190 | 2 | 往返 | any | 湖岸的唯一通道
+crater lake | wizard island                    | 3.7 | 229 | 2 | 圈 | any | 湖中岛
+crater lake | watchman peak                    | 2.6 | 118 | 1.25 | 往返 | pm (since on west side of lake) | 景色
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/oregon/cleetwood-cove-trail?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/oregon/wizard-island?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/oregon/the-watchman-peak-trail?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
 ### Day 7 (H4D6)
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1273987.7141768083!2d-123.99784432623461!3d42.12774366106056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x54c6170840e5e339%3A0x902bf2e1452fe3a3!2sCrater%20Lake%20National%20Park%2C%20Oregon!3m2!1d42.8684411!2d-122.16847849999999!4m5!1s0x54d05066e852b88d%3A0x5e8078a94235c587!2sKlamath%2C%20CA!3m2!1d41.5265092!2d-124.0384069!5e0!3m2!1sen!2sus!4v1582400262524!5m2!1sen!2sus"
+width="600" height="450" frameborder="0" style="border:0;"
+allowfullscreen=""></iframe>
+
 700: Wake up  
 800: Leave for Mount Scott Trail  
 830: Arrive at Mount Scott Trail  
@@ -258,16 +323,7 @@ href="https://commons.wikimedia.org/w/index.php?curid=74454500">Link</a></p>
 1830: Prepare hiking food for tomorrow  
 1900: Leave for Klamath (30min drive)  
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
-:---: | :---: | :---: | :---: | :---: | :---: | :-------:
-crater lake | mount scott                      | 6.8 | 384 | 4 | 往返 | any | 公园最高点
-
 Note: Alternatively, can take the boat at 945 or even 1245 on this day.
-
-<iframe
-src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1273987.7141768083!2d-123.99784432623461!3d42.12774366106056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x54c6170840e5e339%3A0x902bf2e1452fe3a3!2sCrater%20Lake%20National%20Park%2C%20Oregon!3m2!1d42.8684411!2d-122.16847849999999!4m5!1s0x54d05066e852b88d%3A0x5e8078a94235c587!2sKlamath%2C%20CA!3m2!1d41.5265092!2d-124.0384069!5e0!3m2!1sen!2sus!4v1582400262524!5m2!1sen!2sus"
-width="600" height="450" frameborder="0" style="border:0;"
-allowfullscreen=""></iframe>
 
 <p><a
 href="https://commons.wikimedia.org/wiki/File:Craterlake-panorama.jpg#/media/File:Craterlake-panorama.jpg"><img
@@ -279,6 +335,16 @@ lang="en">Own work</span>, <a
 href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons
 Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a
 href="https://commons.wikimedia.org/w/index.php?curid=13243214">Link</a></p>
+
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+crater lake | mount scott                      | 6.8 | 384 | 4 | 往返 | any | 公园最高点
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/oregon/mount-scott-trail?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
 
 ### Day 8 (H5D6)
 700: Wake up  
@@ -295,12 +361,6 @@ href="https://commons.wikimedia.org/w/index.php?curid=13243214">Link</a></p>
 1740: Start Fern Canyon Loop Trail  
 1930: Dinner at Patricks Point  
 
-park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
-:---: | :---: | :---: | :---: | :---: | :---: | :-------:
-redwood | tall trees grove                     | 5.3 | 228 | 2.5 | 圈 | any | 最受欢迎的道
-redwood | lady bird johnson grove              | 2.1 | 23 | 0.75 | 圈 | any | 简单
-redwood | fern canyon                          | 1.8 | 36 | 0.75 | 圈 | any | 侏罗纪公园取景地
-
 <p><a
 href="https://commons.wikimedia.org/wiki/File:Redwood_National_Park,_fog_in_the_forest.jpg#/media/File:Redwood_National_Park,_fog_in_the_forest.jpg"><img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Redwood_National_Park%2C_fog_in_the_forest.jpg/1200px-Redwood_National_Park%2C_fog_in_the_forest.jpg"
@@ -310,6 +370,30 @@ alt="Redwood National Park, fog in the forest.jpg"></a><br>By Michael Schweppe
   <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative
   Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a
   href="https://commons.wikimedia.org/w/index.php?curid=4049158">Link</a></p>
+
+park | trail | distance (km) | elevation (m) | time (hr) | 类型 | best time | features
+:---: | :---: | :---: | :---: | :---: | :---: | :-------:
+redwood | tall trees grove                     | 5.3 | 228 | 2.5 | 圈 | any | 最受欢迎的道
+redwood | lady bird johnson grove              | 2.1 | 23 | 0.75 | 圈 | any | 简单
+redwood | fern canyon                          | 1.8 | 36 | 0.75 | 圈 | any | 侏罗纪公园取景地
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/california/tall-trees-grove-loop-trail?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/california/lady-bird-grove-trail?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
+
+<iframe class="alltrails"
+src="https://www.alltrails.com/widget/trail/us/california/fern-canyon-loop-trail?u=m"
+width="100%" height="400" frameborder="0" scrolling="no" marginheight="0"
+marginwidth="0" title="AllTrails: Trail Guides and Maps for Hiking, Camping,
+and Running"></iframe>
 
 ### Day 9 (H0D10)
 600: Wake up  
