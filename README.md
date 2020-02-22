@@ -110,7 +110,7 @@ href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 
 park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: mud pots, sulphur vents, and boiling pools
+lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: 迷你黄石
 lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火山渣锥
 
 <iframe class="alltrails"
@@ -289,9 +289,9 @@ href="https://commons.wikimedia.org/w/index.php?curid=74454500">Link</a></p>
 
 park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-crater lake | cleet- wood cove                   | 3.4 | 190 | 2 | 往返 | any | 湖岸的唯一通道
+crater lake | cleetwood cove                   | 3.4 | 190 | 2 | 往返 | any | 湖岸的唯一通道
 crater lake | wizard island                    | 3.7 | 229 | 2 | 圈 | any | 湖中岛
-crater lake | watch- man peak                    | 2.6 | 118 | 1.25 | 往返 | pm (since on west side of lake) | 景色
+crater lake | watchman peak                    | 2.6 | 118 | 1.25 | 往返 | pm (since on west side of lake) | 景色
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/oregon/cleetwood-cove-trail?u=m"
