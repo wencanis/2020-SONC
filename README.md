@@ -42,6 +42,8 @@
 - Typical hiking gear:
   - Sunscreen
   - Sun hat
+  - Light backpack
+  - Waterbottle
   - Long pants & long sleeves
   - Snack bars
 
