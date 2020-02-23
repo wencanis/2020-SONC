@@ -33,12 +33,15 @@
 <!-- vim-markdown-toc -->
 
 ## Packing Tips
-- Bring sandals or waterproof shoes for wet hikes
-- Bring a helmet for spelunking
-- Lots of hiking, some in the Sun, some in a cave, so bring appropriate hiking gear:
+- Binoculars for animal watching.
+- Insect repellant for mosquitoes.
+- Sandals or waterproof shoes for wet hikes.
+- Spelunking:
+  - Helmet
+  - Headlight, alternatively a flashlight
+- Typical hiking gear:
   - Sunscreen
-  - Sun Hat
-  - Flashlight
+  - Sun hat
   - Snack bars
 
 ## 天气
