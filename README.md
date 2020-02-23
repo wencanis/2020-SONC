@@ -110,8 +110,8 @@ href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 
 park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-拉森 | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: 迷你黄石
-拉森 | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火山渣锥
+lassen volcanic | bump- ass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: 迷你黄石
+lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火山渣锥
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/california/bumpass-hell?u=m"
@@ -152,7 +152,7 @@ href="https://commons.wikimedia.org/w/index.php?curid=3011326">Link</a></p>
 
 park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lava beds | schonchin butte                    | 2.4 | 142 | 1.25 | 圈 | any | 公园全景，野花
+lava beds | schon-chin butte                    | 2.4 | 142 | 1.25 | 圈 | any | 公园全景，野花
 lava beds | symbol bridge and big painted cave | 1 | 31 | 2.5 | 往返 | any | 塌陷的熔岩管道
 
 <iframe class="alltrails"
