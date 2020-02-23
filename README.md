@@ -42,6 +42,7 @@
 - Typical hiking gear:
   - Sunscreen
   - Sun hat
+  - Long pants & long sleeves
   - Snack bars
 
 ## 天气
