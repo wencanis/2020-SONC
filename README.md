@@ -110,7 +110,7 @@ href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 
 park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lassen volcanic | bump- ass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: 迷你黄石
+lassen volcanic | bump-ass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: 迷你黄石
 lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火山渣锥
 
 <iframe class="alltrails"
@@ -194,7 +194,7 @@ park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
 lava beds | big nasty trail                    | 3.7 | 92 | 1.5 | 圈 | any | 蜥蜴、鸟、火山口
 lava beds | gillem bluff historic trail        | 2.3 | 115 | 1 | 往返 | any | 全景
-lava beds | captain jack's stronghold          | 1.1 | 21 | 0.5 | 圈 | any | 历史
+lava beds | captain jack's strong-hold          | 1.1 | 21 | 0.5 | 圈 | any | 历史
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/california/big-nasty-trail--2?u=m"
