@@ -247,7 +247,7 @@ href="https://commons.wikimedia.org/w/index.php?curid=21147184">Link</a></p>
 
 park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-crater lake | garfield peak                    | 5.5 | 326 | 3 | 往返 | late afternoon | 午后景色
+crater lake | garfield peak                    | 5.5 | 326 | 3 | 往返 | late after-noon | 午后景色
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/oregon/garfield-peak-trail?u=m"
@@ -289,9 +289,9 @@ href="https://commons.wikimedia.org/w/index.php?curid=74454500">Link</a></p>
 
 park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-crater lake | cleetwood cove                   | 3.4 | 190 | 2 | 往返 | any | 湖岸的唯一通道
+crater lake | cleet-wood cove                   | 3.4 | 190 | 2 | 往返 | any | 湖岸的唯一通道
 crater lake | wizard island                    | 3.7 | 229 | 2 | 圈 | any | 湖中岛
-crater lake | watchman peak                    | 2.6 | 118 | 1.25 | 往返 | pm (since on west side of lake) | 景色
+crater lake | watch-man peak                    | 2.6 | 118 | 1.25 | 往返 | pm (since on west side of lake) | 景色
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/oregon/cleetwood-cove-trail?u=m"
