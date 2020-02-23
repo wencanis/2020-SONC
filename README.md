@@ -46,10 +46,10 @@
 
 国家公园 | 夏天历史平均温度（括号里为历史极限）
 :---: | :---:
-拉森 | (-1)**7 ~ 25**(36)
-火山岩床 | (-1)**10 ~ 29**(39)
-火山口湖 | **5 ~ 21**
-红杉树 | (2)**11 ~ 19**(33)
+拉森 Lassen Volcanic | (-1)**7 ~ 25**(36)
+火山岩床 Lava Beds | (-1)**10 ~ 29**(39)
+火山口湖 Crater Lake | **5 ~ 21**
+红杉树 Redwood | (2)**11 ~ 19**(33)
 
 会有一些雨水，平均每月2cm。
 
@@ -110,8 +110,8 @@ href="https://commons.wikimedia.org/w/index.php?curid=80937549">Link</a></p>
 
 park | trail | 长 (km) | 高 (m) | time (hr) | 类型 | best time | 景
 :---: | :---: | :---: | :---: | :---: | :---: | :-------:
-lassen volcanic | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: 迷你黄石
-lassen volcanic | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火山渣锥
+拉森 | bumpass hell                 | 10.1 | 404 | 5 | 往返 | any | 地狱预览: 迷你黄石
+拉森 | cinder cone                  | 7.7 | 318 | 4 | 圈 | any | 火山渣锥
 
 <iframe class="alltrails"
 src="https://www.alltrails.com/widget/trail/us/california/bumpass-hell?u=m"
