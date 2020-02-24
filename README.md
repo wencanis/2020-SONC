@@ -12,6 +12,7 @@
 
 * [Packing Tips](#packing-tips)
 * [天气](#天气)
+* [海拔](#海拔)
 * [Candidate Plan](#candidate-plan)
     * [Day 1 (H5D7)](#day-1-h5d7)
     * [Day 2 (H9D1)](#day-2-h9d1)
@@ -33,9 +34,9 @@
 <!-- vim-markdown-toc -->
 
 ## Packing Tips
-- Binoculars for animal watching.
-- Insect repellant for mosquitoes.
-- Sandals or waterproof shoes for wet hikes.
+- Binoculars for animal watching
+- Insect repellant for mosquitoes
+- Sandals or waterproof shoes for wet hikes
 - Spelunking:
   - Helmet
   - Headlight, alternatively a flashlight
@@ -45,7 +46,8 @@
   - Light backpack
   - Waterbottle
   - Long pants & long sleeves
-  - Snack bars
+  - High calorie snack bars
+- Lots of water to help with high altitude
 
 ## 天气
 天气表
@@ -58,6 +60,33 @@
 红杉树 Redwood | (2)**11 ~ 19**(33)
 
 会有一些雨水，平均每月2cm。
+
+## 海拔
+海拔表
+
+国家公园 | 旅馆海拔 (m) | 徒步总长 | 平均徒步海拔 (m) | 最高海拔 (m)
+:---: | :---: | :---: | :---:
+拉森 | 1500 | 26 km | 2427 | 3213
+火山岩床 | 1250 | 11 km | 1471 | 1655
+火山口湖 | 1400或1900 | 22 km | 2280 | 2738
+红杉树 | 20 | 10 km | 300 | 406
+
+波音787舱内气压相当于海拔1800m。
+
+光凭快速上升到2500m就会导致22%的人得高山反应；3000m则是40%。
+
+风险因素：
+- 以前有过反应的人
+- 高海拔运动量
+- 肥胖
+- 有肺病的人
+- **体能好不能降低发生风险**
+
+怎样避免高山反应：
+- 减缓上升速度。
+- 睡在低海拔。
+- 不喝酒，不吃睡眠药。
+- 乙酰唑胺(acetazolamide)可以用于预防，但它有些副作用。
 
 ## Candidate Plan
 <iframe
